@@ -1,0 +1,84 @@
+.requirements
+    max-width: 586px
+    width: 100%
+    margin: 0 auto
+    & dl
+        +flex($justify: flex-start, $align: normal)
+        +fz(1.4rem)
+        line-height: 2
+        +sansJ()
+        +mq-down(md)
+            +fz(1.2rem)
+            display: block
+        &:first-child
+            & dt
+                border-top: 2px solid $black
+                +mq-down(md)
+                    border: none
+            & dd
+                border-top: 1px solid $black
+                +mq-down(md)
+                    border: none
+        & dt
+            max-width: 200px
+            width: 100%
+            border-bottom: 2px solid $black
+            padding: 20px 0 
+            margin-right: 20px
+            +mq-down(md)
+                padding: 10px 0 10px 10px
+                border: none
+                max-width: none
+                background-color: $gray2
+        & dd
+            border-bottom: 1px solid $black
+            padding: 20px 0
+            width: 100%
+            +mq-down(md)
+                padding: 10px 0 10px 10px
+                border: none
+    &__btn
+        position: relative
+        display: block
+        background-color: $gray2
+        border: 1px solid $black
+        +fz(1.4rem)
+        +sansJ()
+        max-width: 437px
+        width: 100%
+        text-align: center
+        margin: 140px auto 100px
+        padding: 34px 0
+        overflow: hidden
+        text-transform: uppercase
+        transition: all 0.75s ease 0s
+        +mq-down(lg)
+            margin: 70px auto 50px
+        &::after
+            content: ""
+            position: absolute
+            height: 0%
+            left: 50%
+            top: 50%
+            transform: translateX(-50%) translateY(-50%) rotate(-25deg)
+            width: 150%
+            z-index: -1
+            transition: all 0.75s ease 0s
+        &:hover
+            color: $white
+            &::after
+                background-color: $black
+                height: 450%
+    &__txt
+        text-align: center
+        +fz(1.4rem)
+        +sansJ()
+        line-height: 2
+        +mq-down(md)
+            +fz(1.2rem)
+    &__sns
+        width: 24px
+        display: block
+        margin: 10px auto 0
+        &:hover
+            opacity: 0.4

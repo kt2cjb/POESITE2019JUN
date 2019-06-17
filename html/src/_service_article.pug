@@ -1,0 +1,94 @@
+mixin service_article(id,src,alt,ttl,sbttl,txt,line)
+    - 
+        const LINE1 = [
+        {
+            'ttl': 'Business Concept',
+            'txt': 'コンセプトのアイディエーションや提供価値の定義、事業仮説の構築を行います。'
+        },
+        {
+            'ttl': 'Business Strategy',
+            'txt': '事業スキーム、マネタイズの仕掛け、参入戦略など、事業モデルを持続可能な仕組みに落とし込みます。'
+        },
+        {
+            'ttl': 'Service Design',
+            'txt': 'ペルソナやカスタマージャーニーマップ、JTBDキャンバスなどを用いて、より詳細なサービスモデルの設計を行います。'
+        },
+        {
+            'ttl': 'Interface Design',
+            'txt': 'デジタル／リアルのユーザー接点におけるサービスインターフェイスを設計・開発します。'
+        },
+        {
+            'ttl': 'Business Development',
+            'txt': '事業の立上げに必要なプロダクト、組織、プロセスを具現化します。'
+        }
+        ];
+    - 
+        const LINE2 = [
+        {
+            'ttl': 'Brand Strategy',
+            'txt': 'ブランドのコンセプト開発や育成シナリオ、ポートフォリオ管理の戦略を構築します。'
+        },
+        {
+            'ttl': 'Brand Identity',
+            'txt': 'ブランドビジョンを定め、ネーミングやタグライン、ロゴやビジュアルコンセプトなどのCI/VIを定義します。'
+        },
+        {
+            'ttl': 'Inner Branding',
+            'txt': 'ブランドオーナーの意識づけや組織の仲間づくりにより、内面からブランドの世界観を醸成します。'
+        },
+        {
+            'ttl': 'Brand Experience',
+            'txt': '商品、Webサイト、店舗など、ファンとのあらゆる接点を統合的にデザインします。'
+        },
+        {
+            'ttl': 'Advertising',
+            'txt': '動画、フライヤー、ポスターなどのクリエイティブ制作やデジタル広告の企画および運用を行います。'
+        }
+        ];
+    - 
+        const LINE3 = [
+        {
+            'ttl': 'Workshop',
+            'txt': '社内のワークショップやハッカソンなどの参加型イベントを企画・運営します。'
+        },
+        {
+            'ttl': 'Community Design',
+            'txt': 'コミュニティの目的やコンセプトの設計など、コミュニティ立上げの構想を策定します。'
+        },
+        {
+            'ttl': 'Space & Operation',
+            'txt': '空間の外形や動線、オペレーションの仕組みも含めた場全体の運用を設計します。'
+        },
+        {
+            'ttl': 'Coordination',
+            'txt': 'コミュニティが活性化するためのイベントの企画や交流の仕組みづくりを行います。'
+        },
+        {
+            'ttl': 'Community Branding',
+            'txt': '情報発信や集客施策など、コミュニティに人が集まる仕掛けを設計します。'
+        }
+        ];
+    section.service-article(id= id)
+        .service-article__img
+            img(src= src, alt= alt)
+        .service-article__ttl.mt60.mb10= ttl
+        .service-article__sbttl= sbttl
+        .service-article__txt.mt50.mb60= txt
+        .line
+            .line__ttl SERVICE LINE
+            .line-contents
+                if line== '1'
+                    for line in LINE1
+                        .line-contents__ttl= line.ttl
+                        .line-contents__txt.mt10.mb50= line.txt
+                    a(href="").line-contents__link Business Managementの事例を見る
+                else if line== '2'
+                    for line in LINE2
+                        .line-contents__ttl= line.ttl
+                        .line-contents__txt.mt10.mb50= line.txt
+                    a(href="").line-contents__link Brand Managementの事例を見る
+                else if line== '3'
+                    for line in LINE3
+                        .line-contents__ttl= line.ttl
+                        .line-contents__txt.mt10.mb50= line.txt
+                    a(href="").line-contents__link Community Managementの事例を見る

@@ -1,0 +1,35 @@
+mixin tag()
+    form.tag
+        .tag-all
+            input(type="checkbox" name="checkbox" value="All")#all
+            label(for="all").tag__item  All
+        .tag-contents
+            .tag__large
+                input(type="checkbox" name="checkbox" value="BUSINESS-management" disabled="disabled")#BUSINESS-management
+                label(for="BUSINESS-management").tag__item BUSINESS management
+                <p class="accordion_icon mg-block"><span></span><span></span></p>
+            - const tagNames1 = [{name: 'Business Concept',val: 'Business-Concept'},{name: 'Business Strategy',val: 'Business-Strategy'},{name: 'Service Design',val: 'Service-Design'},{name: 'Interface Design',val: 'Interface-Design'},{name: 'Business Development',val: 'Business-Development'},]
+            .tag__child
+                 each val in tagNames1          
+                    input(type="checkbox" name="checkbox" value= val.val id= val.val).tag__child--item
+                    label(for= val.val).tag__item= val.name
+        .tag-contents
+            .tag__large
+                input(type="checkbox" name="checkbox" value="BRAND-management" disabled="disabled")#BRAND-management
+                label(for="BRAND-management").tag__item BRAND management
+                <p class="accordion_icon mg-block"><span></span><span></span></p>
+            - const tagNames2 = [{name: 'Brand Strategy',val: 'Brand-Strategy'},{name: 'Brand Identity',val: 'Brand-Identity'},{name: 'Inner Branding',val: 'Inner-Branding'},{name: 'Brand Experience',val: 'Brand-Experience'},{name: 'Advertising',val: 'Advertising'},]
+            .tag__child
+                 each val in tagNames2             
+                    input(type="checkbox" name="checkbox" value= val.val id= val.val).tag__child--item
+                    label(for= val.val).tag__item= val.name
+        .tag-contents
+            .tag__large
+                input(type="checkbox" name="checkbox" value="COMMUNITYmanagement" disabled="disabled")#COMMUNITYmanagement
+                label(for="COMMUNITYmanagement").tag__item  COMMUNITY management
+                <p class="accordion_icon mg-block"><span></span><span></span></p>
+            - const tagNames3 = [{name: 'Workshop',val: 'Workshop'},{name: 'Community Design',val: 'Community-Design'},{name: 'Space & Operation',val: 'Space-Operation'},{name: 'Coordination',val: 'Coordination'},{name: 'Community Branding',val: 'Community-Branding'},]
+            .tag__child
+                 each val in tagNames3              
+                    input(type="checkbox" name="checkbox" value= val.val id= val.val).tag__child--item
+                    label(for= val.val).tag__item= val.name

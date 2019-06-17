@@ -1,0 +1,44 @@
+.article
+    +flex($justify: space-between, $align: flex-start)
+    +mq-down(md)
+        display: block
+    &-left
+        width: 40%
+        +mq-down(md)
+            width: 100%
+            margin-bottom: 30px
+        &__ttl
+            +fz(1.6rem)
+            +sansJ()
+            +mq-down(md)
+                +fz(1.4rem)
+        &__txt
+            +fz(1.2rem)
+            +sansJ()
+            line-height: 2
+            +mq-down(md)
+                +fz(1rem)
+    &-right
+        width: 55%
+        +mq-down(md)
+            width: 100%
+        &__ttl
+            +fz(1.8rem)
+            +sansJ()
+            +mq-down(md)
+                +fz(1.6rem)
+            &::after
+                content: ''
+                display: block
+                width: 60%
+                height: 1px
+                background-color: $black
+                margin-top: 20px
+                +mq-down(md)
+                    margin-top: 10px
+        &__txt
+            +fz(1.4rem)
+            +sansJ()
+            line-height: 2
+            +mq-down(md)
+                +fz(1.2rem)

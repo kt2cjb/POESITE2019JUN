@@ -1,0 +1,51 @@
+.space
+    +flex($justify: space-between, $align: flex-end)
+    margin-bottom: 45px
+    +mq-down(md)
+        display: block
+    &__contents
+        width: 240px
+        +mq-down(md)
+            width: 100%
+            text-align: center
+    &__logo
+        width: 145px
+        margin: 0 auto
+    &__ttl
+        letter-spacing: 0px
+        +fz(1.2rem)
+        +lvyStyle()
+        margin: 50px 0 20px
+        +mq-down(md)
+            margin: 25px 0 10px
+    &__txt
+        letter-spacing: 0px
+        +fz(1.2rem)
+        +sansJ()
+        +mq-down(md)
+            line-height: 1.5
+    &__link
+        display: block
+        letter-spacing: 0px
+        +fz(1.2rem)
+        +sansJ()
+        transition: 0.4s
+        +mq-down(md)
+            margin: 5px 0 10px
+        &:hover
+            opacity: 0.4
+    &__img
+        width: 540px
+        height: 245px
+        background-repeat: no-repeat
+        background-size: cover
+        background-position: center
+        transition: 0.4s
+        +mq-down(lg)
+            width: 60vw
+        +mq-down(mg)
+            width: 50vw
+        +mq-down(md)
+            width: 100%
+        &:hover
+            opacity: 0.4

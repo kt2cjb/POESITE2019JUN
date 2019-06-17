@@ -1,0 +1,31 @@
+.media
+    +flex($justify: space-between, $align: flex-start)
+    +mq-down(lg)
+        display: block
+    &-contents
+        width: 54%
+        +mq-down(lg)
+            width: 100%
+    &__ttl
+        +fz(1.6rem)
+        +sansJ()
+        margin-top: 10px
+        margin-bottom: 10px
+        +mq-down(md)
+            +fz(1.4rem)
+    &__txt
+        +fz(1.4rem)
+        +sansJ()
+        line-height: 2
+        white-space: pre-wrap
+        word-wrap: break-word
+        +mq-down(md)
+            +fz(1.2rem)
+    &-caption
+        width: 40%
+        +mq-down(lg)
+            width: 100%
+    &__img
+        &--txt
+            +fz(1rem)
+            +sansJ()

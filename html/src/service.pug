@@ -1,0 +1,31 @@
+include _service_article.pug
+include _card.pug
+doctype html
+html(lang="ja")
+  head
+    include _head.pug
+  body
+    include _header.pug
+    .service
+        .service-wrap
+            .service__ttl Service
+            +service_article('business','./images/service/service1.png','BUSINESS Managementの画像','BUSINESS Management','顧客体験と事業のフィージビリティが共存する生態系のデザイン','POINT EDGEのビジネスデザインは、コンセプト開発、サービスモデルの設計や参入戦略の策定、立上げに必要なプロダクトや事業プロセスの設計など、初期のアイディエーションから事業が動く段階まで、事業開発をトータルで支援し、ユーザーと企業の双方がベネフィットを享受できる「エコシステム」を生み出します。','1')
+            +service_article('brand','./images/service/service2.png','BRAND Managementの画像','BRAND Management','世界観を言葉・ビジュアルへと昇華させ共感を広める仕組みのデザイン','POINT EDGEでは、ブランディングを「人づくり」と捉えています。単に外形を整えるだけでなく、ブランドを形づくり、共感の輪を広げていく主体メンバーがブランドの価値観と一体化することを重視し、一過性で終わらないブランドの仕組みを伴走しながら築き上げていきます。','2')
+            +service_article('community','./images/service/service3.png','COMMUNITY Managementの画像','COMMUNITY Management','有機的な結びつきをもたらしアイデアと文化が生まれる場のデザイン','単発のワークショップやイベントの企画支援から、物理的な空間のデザイン、オペレーションの設計、コミュニティ内のコミュニケーションの活性化まで、自社コワーキングスペースで培ったノウハウでコミュニティ運営に関する全般を支援します。','3')
+            section.detail-relation.service-new
+                h2.detail-relation__ttl What’s New?
+                h3.detail-relation__sbttl.mb50 最新記事
+                .service-new-wrap
+                    .service-new__item
+                        +card('./images/top/study1.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                    .service-new__item
+                        +card('./images/top/study2.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                    .service-new__item
+                        +card('./images/top/study3.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                    .service-new__item
+                        +card('./images/top/study1.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                    .service-new__item
+                        +card('./images/top/study2.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                    .service-new__item
+                        +card('./images/top/study3.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+    include _footer.pug

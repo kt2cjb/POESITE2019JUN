@@ -1,0 +1,86 @@
+doctype html
+html(lang="ja")
+  head
+    include _head.pug
+  body
+    include _header.pug
+    .contact
+        .contact-wrap
+            h2.contact__ttl CONTACT
+            p.contact__txt 以下のコンタクトフォームよりお問合せください。2-3営業日以内にご返答差し上げます。
+            form.form
+                .form-contents
+                    p.form__label.require
+                        label(for="") 問い合わせ種別
+                    .form__input
+                        .form__radio
+                            span
+                                label
+                                    input(type="radio" name="radio" value="val" id="radio1")
+                                    span 案件のご紹介
+                        .form__radio
+                            span
+                                label
+                                    input(type="radio" name="radio" value="val" id="radio1")
+                                    span ご相談講演
+                        .form__radio
+                            span
+                                label
+                                    input(type="radio" name="radio" value="val" id="radio1")
+                                    span セミナー　
+                        .form__radio
+                            span
+                                label
+                                    input(type="radio" name="radio" value="val" id="radio1")
+                                    span 取材のご依頼
+                        .form__radio
+                            span
+                                label
+                                    input(type="radio" name="radio" value="val" id="radio1")
+                                    span 協業のご提案やご案内 
+                        .form__radio
+                            span
+                                label
+                                    input(type="radio" name="radio" value="val" id="radio1")
+                                    span 採用関連（問い合せ／エントリー）
+                .form-contents
+                    p.form__label.require
+                        label(for="") 問い合わせ内容
+                        sppan.error エラーテキストがでます。
+                    .form__input
+                        .form__txtarea
+                            textarea(name="")
+                .form-contents
+                    p.form__label.require
+                        label(for="") お名前
+                    .form__input
+                        .form__txt
+                            input(type="text")
+                .form-contents
+                    p.form__label.require
+                        label(for="") 会社名
+                    .form__input
+                        .form__txt
+                            input(type="text")
+                .form-contents
+                    p.form__label
+                        label(for="") 部署名
+                    .form__input
+                        .form__txt
+                            input(type="text")
+                .form-contents
+                    p.form__label.require
+                        label(for="") メールアドレス
+                    .form__input
+                        .form__txt
+                            input(type="email")
+                .form-contents
+                    p.form__label.require
+                        label(for="") メールアドレス(確認)
+                        sppan.error エラーテキストがでます。
+                    .form__input
+                        .form__txt
+                            input(type="email")
+                .form__submit
+                    input(type="submit" value="送信")
+    include _footer.pug

@@ -1,0 +1,27 @@
+.list
+    &-wrap
+        +contents
+        margin: 0 auto
+    &-contents
+        +flex($justify: flex-start, $align: flex-start)
+        flex-flow: wrap
+        margin-bottom: 90px
+        +mq-down(lg)
+            justify-content: space-between
+            padding: 0 5%
+            margin-bottom: 45px
+        +mq-down(md)
+            display: block
+        &__item
+            width: 250px
+            margin-bottom: 40px
+            margin-right: 75px
+            +mq-down(lg)
+                width: 300px
+                margin-right: 0
+            +mq-down(mg)
+                width: 270px
+            +mq-down(md)
+                width: 100%
+            &:nth-child(3n)
+                margin-right: 0

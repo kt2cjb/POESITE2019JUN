@@ -1,0 +1,48 @@
+.work
+    +flex($justify: space-between, $align: flex-start)
+    +contents
+    margin-right: 50px
+    +mq-down(mg)
+        display: block
+    &-wrap
+        width: 230px
+        +mq-down(mg)
+            width: 100%
+            margin-bottom: 50px 
+    &__line
+        width: 1px
+        height: 21px
+        background-color: $black
+        margin-bottom: 70px
+        +mq-down(lg)
+            display: none
+    &__ttl
+        +fz(2.2rem)
+        +lvyStyle()
+        +mq-down(md)
+            +fz(2rem)
+    &__sbttl
+        +fz(1.8rem)
+        +lvyStyle()
+        +mq-down(md)
+            +fz(1.6rem)
+    &__txt
+        +fz(1.4rem)
+        +sansJ()
+        margin: 45px 0 35px
+        line-height: 2
+        +mq-down(lg)
+            margin: 25px 0 15px
+        +mq-down(md)
+            +fz(1.2rem)
+    &__list
+        +mq-down(lg)
+        &-item
+            +fz(1.3rem)
+            +lvyStyle()
+            letter-spacing: 0
+            line-height: 2
+            +mq-down(lg)
+                margin-right: 20px
+            +mq-down(md)
+                +fz(1.1rem)

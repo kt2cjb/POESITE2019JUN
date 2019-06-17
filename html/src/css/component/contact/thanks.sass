@@ -1,0 +1,32 @@
+.thanks
+    margin: 100px 0
+    +mq-down(lg)
+        margin: 50px 5%
+    &-wrap
+        +contents
+        margin: 0 auto
+        text-align: center
+        border: 1px solid $black
+        padding: 50px 0
+        +mq-down(lg)
+            padding: 25px 0
+    &__ttl
+        +fz(2.5rem)
+        +sansJ()
+        +mq-down(md)
+            +fz(2.3rem)
+    &__txt
+        +fz(1.6rem)
+        +sansJ()
+        margin: 30px 0 50px
+        +mq-down(lg)
+            margin: 15px auto 25px
+        +mq-down(md)
+            width: 80%
+            +fz(1.4rem)
+
+    &__btn
+        margin: 0 auto
+        +mq-down(md)
+            width: 80%
+            padding: 17px 0

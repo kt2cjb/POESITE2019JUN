@@ -1,0 +1,17 @@
+mixin approach(ttl,txt,src)
+    .approach(class="approach__" + ttl)
+        .approach-wrap
+            if ttl== '1'
+                h3.approach__ttl.mb30 フリークリエイター中心に
+                    br
+                    | コミュニティを形成
+            else if ttl== '2'
+                h3.approach__ttl.mb30 依頼プロジェクトにあわせた
+                    br
+                    | チームを編成
+            else if ttl== '3'
+                h3.approach__ttl.mb30 クリエイティブ
+                    br
+                    | プロジェクトを支援
+            p.approach__txt= txt
+            .approach__img(style="background-image:url('" + src +"')" class="approach__img" + ttl)

@@ -1,0 +1,63 @@
+include _approach-contents.pug
+doctype html
+html(lang="ja")
+  head
+    include _head.pug
+  body
+    include _header.pug
+    .about
+      .about-visual
+      section.about-description
+        .about-description-wrap
+          time(datetime="2019-05-23") 2019.5.23
+          .about-description-contents
+            h2.about-description__ttl POINT EDGEは、
+              br
+              | 「意味」を深掘りし再構築するビジネスデザイン集団です。
+            p.about-description__txt 私たちは、ビジネスのコンテキストを突き詰め、個人や事業、組織に対して、本質的で「意味」ある発想をもたらすことを目指しています。
+            p.about-description__txt 新規事業がユーザー・企業にもたらす意義を見出したり、組織や会社をより良い方向に導くためのビジョンを策定したり、今あるサービスの価値を高めるためにリフレームしたりすることが、私たちのミッションです。
+            p.about-description__txt その鍵は、プロジェクト関係者の納得感を醸成すること。そのために、私たちは、より説得力のあるプロジェクトへと磨きをかけることを常に志します。
+      section.about-approach
+        .about-approach-wrap
+          .about-approach-contents
+            p.about-approach-breadcrumb approach
+            h2.about-approach__ttl コミュニティを利用したアプローチ
+            p.about-approach__txt プロジェクトをより意味のあるものへ推進するため、私たちは様々なクリエイターとコラボレーションをしています。映像ディレクターであったり、アートディレクターやフォトグラファーなどハイクラスなクリエイターとチームを形成して、プロジェクトを支援します。
+            +approach('1','多種多様でハイクラスな人材が所属するコミュニティ','./images/about/approach1.png')
+            +approach('2','テーマやフェーズに合わせた柔軟なチーミング','./images/about/approach2.png')
+            +approach('3','ビジネスデザイナーによるトータルディレクション','./images/about/approach3.png')
+          .approach__bg.approach__bg1
+          .approach__bg.approach__bg2
+      section.about-comdata
+        h2.about-comdata__ttl comdata
+        .about-comdata-contents
+          dl
+            dt 会社名
+            dd 株式会社POINT EDGE/POINT EDGE inc.
+          dl
+            dt 本社所在地
+            dd 〒150-0002　東京都渋谷区渋谷2-22-6 10F
+          dl
+            dt 設立
+            dd 2017年1月11日
+          dl
+            dt 代表者/役員
+            dd 代表取締役社長/CEO　友松哲也
+              br
+              | 取締役/CDO　林大輔
+          dl
+            dt 事業内容
+            dd ビジネスデザインコンサルティング業務
+              br
+              | フリークリエイター向けのコミュニティサービスの運営
+      section.about-link
+        .about-link-card
+          a(href="/work").about-link--work
+            span Our Work
+        .about-link-card
+          a(href="/service").about-link--service
+            span Our service
+        .about-link-card
+          a(href="#").about-link--team
+            span Our Team
+    include _footer.pug

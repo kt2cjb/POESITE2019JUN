@@ -1,0 +1,122 @@
+.contact
+    &-wrap
+        +contents
+        margin: 90px auto 100px
+        +mq-down(lg)
+            padding: 0 5%
+            margin: 45px auto 50px
+    &__ttl
+        +fz(2.3rem)
+        +lvyStyle()
+        +mq-down(lg)
+            +fz(2.1rem)
+    &__txt
+        +fz(1.3rem)
+        +sansJ()
+        margin: 60px 0 100px
+        +mq-down(lg)
+            margin: 30px 0 50px
+        +mq-down(lg)
+            +fz(1.1rem)
+.form
+    &-contents
+        +flex($justify: flex-start, $align: flex-start)
+        margin-top: 50px
+        +mq-down(lg)
+            margin-top: 30px
+        +mq-down(md)
+            display: block
+        &:first-child
+            margin-top: 0
+        & input[type='radio'] 
+            display: none
+            & + span::before
+                content: ''
+                display: inline-block
+                width: 10px
+                height: 10px
+                margin: -1px 4px 0 0
+                vertical-align: middle
+                cursor: pointer
+                border-radius: 50%
+                border: 1px solid $black
+            &:checked + span::before
+                background-color: $black
+        & textarea
+            width: 100%
+            resize: horizontal
+            height: 146px
+            border: 1px solid $black4
+            padding: 10px
+            box-sizing: border-box
+            max-width: 630px
+            &:focus
+                outline: none
+        & input[type="text"]
+            border: none
+            background-color: $gray4
+            width: 100%
+            padding: 10px
+            box-sizing: border-box
+            &:focus
+                outline: none
+        & input[type="email"]
+            border: none
+            background-color: $gray4
+            width: 100%
+            padding: 10px
+            box-sizing: border-box
+            &:focus
+                outline: none
+    &__label
+        +fz(1.2rem)
+        +sansJ()
+        width: 270px
+        position: relative
+        &.require::before
+            content: '*'
+            position: absolute
+            width: 10px
+            height: 10px
+            top: -2px
+            left: -10px
+            color: $red
+        +mq-down(md)
+            margin-bottom: 5px
+    &__input
+        width: 100%
+        max-width: 630px
+        +fz(1.2rem)
+        +sansJ()
+    &__radio
+        +fz(1.1rem)
+        margin-top: 10px
+        &:first-child
+            margin-top: 0
+        & label
+            cursor: pointer
+    &__submit
+        text-align: center
+        margin-top: 90px
+        +mq-down(lg)
+            margin-top: 45px
+    & input[type='submit']
+        border: none
+        cursor: pointer
+        width: 73px
+        box-sizing: border-box
+        background-color: $black
+        color: $white
+        padding: 7px 0
+        +fz(1.4rem)
+        +sansJ()
+        transition: 0.4s
+        &:hover
+            opacity: 0.4
+        +mq-down(md)
+            +fz(1.2rem)
+.error
+    color: $red
+    +fz(0.9rem)
+    +sansJ()
+    display: block

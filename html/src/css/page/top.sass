@@ -1,0 +1,203 @@
+.top
+    &-section
+        &1
+            &.active
+                position: fixed
+                width: 100vw
+                height: 100vh
+                background-color: $white
+                z-index: 4
+        &2
+            position: relative
+            &.active
+                @extend .top-section1.active
+                top: 10vh
+                z-index: 3
+    &-wrap
+        overflow: hidden
+        touch-action: none
+    &-letter
+        position: relative
+        &-wrap
+            overflow: hidden
+        &__slider
+            &-img
+                max-width: 100%
+                background-size: cover !important
+                margin: 0 auto
+    &-belief
+        background-color: rgba(0,0,0,0)
+        height: 90vh
+        width: 100%
+        position: absolute
+        top: 0
+        z-index: 1
+        +flex($justify: space-around, $align: flex-start)
+        -webkit-animation-duration: 1s
+        animation-duration: 1s
+        &-wrap
+            width: 100%
+            background-color: $gray
+            +mq-down(lg)
+                +flex($justify: space-around, $align: center)
+                height: 80vh
+                background-color: $gray
+        &-contents
+            width: 100%
+            max-width: 1280px
+            margin: 0 auto
+            +flex($justify: space-around, $align: center)
+            color: $white
+            background-color: $gray
+            height: 80vh
+            +mq-down(lg)
+                display: block
+                height: auto
+                padding: 0 5%
+        &__ttl
+            +fz(1.5rem)
+            width: 20%
+            +serifJ()
+            line-height: 2.5
+            +mq-down(lg)
+                width: 100%
+                margin-bottom: 30px
+            +mq-down(sm)
+                margin-bottom: 15px
+        &-word
+            width: 60%
+            +mq-down(lg)
+                width: 100%
+        &__txt
+            +fz(1.3rem)
+            +sansJ()
+            line-height: 2.5
+            margin-bottom: 45px
+            +mq-down(lg)
+                margin-bottom: 25px
+            +mq-down(md)
+                +fz(1.1rem)
+            +mq-down(sm)
+                margin-bottom: 10px
+                line-height: 1.7
+            &:last-child
+                margin-bottom: 0
+    &-work
+        height: calc(1300px + 100vh)
+        position: relative
+        overflow: hidden
+        +mq-down(lg)
+            height: calc(900px + 100vh)
+        +mq-down(mg)
+            height: calc(1700px + 100vh)
+        +mq-down(md)
+            height: calc(1500px + 100vh)
+        &__bg
+            background: url('../images/top/poe-backglound.jpg') top center repeat
+            background-size: contain
+            position: absolute
+            height: 140%
+            width: 100%
+            top: -250px
+        &-wrap
+            background-color: $white2
+            position: absolute
+            width: 100%
+            bottom: 20%
+            +mq-down(lg)
+                bottom: 15%
+            +mq-down(md)
+                bottom: 10%
+        &-contents
+            +flex($justify: space-between, $align: flex-start)
+            +siteWidth
+            padding: 65px 0 85px
+            +mq-down(lg)
+                display: block
+                padding-top: 65px
+                padding-bottom: 85px
+        &__ttl
+            +fz(1.6rem)
+            +lvyStyle()
+            font-style: italic
+            width: 100px
+            margin: 91px 20px 0 50px
+            +mq-down(lg)
+                margin: 0 0 50px
+            +mq-down(md)
+                +fz(1.4rem)
+    &-study
+        padding: 85px 0 160px
+        +mq-down(lg)
+            padding: 80px 0
+        &-wrap
+            +siteWidth
+            +flex($justify: space-between, $align: flex-start)
+            +mq-down(lg)
+                display: block
+        &__ttl
+            +fz(1.6rem)
+            +lvyStyle()
+            font-style: italic
+            width: 100px
+            margin: 0 20px 0 50px
+            +mq-down(lg)
+                margin: 0 0 50px
+            +mq-down(md)
+                +fz(1.4rem)
+        &-contents
+            margin-right: 50px
+            +mq-down(lg)
+                margin-right: 0
+            &-in
+                +flex($justify: flex-start, $align: flex-start)
+                +contents
+                flex-flow: wrap
+                +mq-down(xs)
+                    justify-content: space-between
+                +mq-down(md)
+                    display: block
+            &__item
+                width: 250px
+                margin-bottom: 40px
+                margin-right: 75px
+                +mq-down(xs)
+                    width: 300px
+                    margin-right: 0
+                +mq-down(mg)
+                    width: 270px
+                +mq-down(md)
+                    width: 100%
+                &:nth-child(3n)
+                    margin-right: 0
+        &__btn
+            +contents
+            display: block
+            text-align: center
+            +mq-down(lg)
+                padding-right: 0
+            & .btn
+                display: inline
+                text-align: center
+                margin-left: 10px
+                margin-right: 10px
+    &-news
+        overflow: hidden
+        &-wrap
+            @extend .top-study-wrap
+        &__ttl
+            @extend .top-study__ttl
+    &-space
+        margin: 160px 0 45px
+        +mq-down(lg)
+            margin: 80px 0 35px
+        &-wrap
+            @extend .top-study-wrap
+        &__ttl
+            @extend .top-study__ttl
+        &__card
+            +contents
+            margin-right: 50px
+            +mq-down(lg)
+                margin-right: 0
+    

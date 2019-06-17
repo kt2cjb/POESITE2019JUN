@@ -1,0 +1,17 @@
+doctype html
+html(lang="ja")
+  head
+    include _head.pug
+  body
+    include _header.pug
+    .thanks
+        .thanks-wrap
+            h2.thanks__ttl 問い合わせ 送信完了
+            p.thanks__txt 問い合わせありがとうございます。
+                br
+                | 内容をお確かめ後、ご返信させて頂きます。
+                br
+                | しばらくお待ち下さい。
+            a(href="/contact").requirements__btn.thanks__btn 問い合わせに戻る
+            
+    include _footer.pug

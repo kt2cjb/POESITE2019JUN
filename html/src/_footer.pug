@@ -1,0 +1,30 @@
+footer.footer
+    .footer-wrap
+        ul.footer-nav
+            - const footerNav = ['ABOUT', 'SERVICE', 'WORK', 'BLOG', 'JOBS', 'SPACE']
+            - const footerLink = ['about', 'service', 'work', 'blog', 'jobs', 'space']
+            for item, index in footerNav 
+                li.footer-nav__item
+                    if footerLink[index]== 'space'
+                        .footer__link(id="footer__" + footerLink[index])= item
+                    else
+                        a(href= '/' + footerLink[index]).footer__link= item
+        a(href="/").footer__logo
+            img(src="images/common/footer-logo.svg", alt="株式会社POINT EDGE")
+        .footer-list
+            p.footer__address 〒150-0002
+                br
+                | 東京都渋谷区渋谷2-22-6 10F
+            a(href="http://pointedge.work/shibuya/" target="_blank").footer__coworking POINT EDGE ShibuyaBASE
+            a(href="http://foto-daikanyama.com/access/" target="_blank").footer__foto FOTO DAIKANYAMA
+            .footer-social
+                .footer__media POINTEDGE ON SOCIAL MEDIA
+                .footer-sns
+                    a(href="https://www.facebook.com/pointedgeinc/" target="_blank").facebook
+                        img(src="images/common/facebook-icon.svg", alt="facebookアイコン")
+                    a(href="https://www.flickr.com/photos/159661353@N06/albums" target="_blank").flickr
+                        img(src="images/common/flickr-icon.svg", alt="flickrアイコン")
+        p.footer__copyright
+            small &copy; 2019 POINT EDGE, Inc.
+        
+script(type='text/javascript' src="js/bundle.js")

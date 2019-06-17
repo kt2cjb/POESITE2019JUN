@@ -1,0 +1,42 @@
+.card
+    width: 100%
+    &__link
+        display: block
+        transition: all 0.4s
+        & img
+            transition: all 0.4s
+        &:hover
+            opacity: 0.8
+            & img
+                transform: scale(1.2)
+    &__img
+        overflow: hidden
+    &__ttl
+        +fz(1.2rem)
+        +sansJ()
+        margin: 10px 0
+    &__txt
+        +fz(1rem)
+        +sansJ()
+        margin: 0 0 10px
+    &__list
+        width: 60%
+        &-item
+            +fz(1rem)
+            +lvyStyle()
+            font-style: italic
+            line-height: 1
+            display: inline-block
+            margin-right: 10px
+            & a
+                &::after
+                    height: 1px
+                    content: ''
+                    width: 0
+                    display: block
+                    background-color: $black
+                    transition: all 0.4s
+                &:hover
+                    &::after
+                        width: 100%
+                        opacity: 0.8

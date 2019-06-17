@@ -1,0 +1,10 @@
+mixin workCard(title,text,link, ...lists)
+    .work-wrap
+        .work__line
+        h3.work__ttl= title
+        h4.work__sbttl management
+        p.work__txt= text
+        ul.work__list.mb40
+            each list in lists
+                li.work__list-item= list
+        +btn(link)

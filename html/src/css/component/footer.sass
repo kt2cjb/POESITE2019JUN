@@ -1,0 +1,132 @@
+.footer
+    background-color: $black2
+    &-wrap
+        +siteWidth
+        padding-left: 120px
+        +mq-down(lg)
+            padding: 0 5%
+    &-nav
+        +flex($justify: space-between, $align: center)
+        width: 460px
+        padding: 45px 0 125px
+        +mq-down(lg)
+            padding: 25px 0 80px
+            flex-flow: wrap
+            width: 100%
+    &__link
+        color: $white
+        cursor: pointer
+        +fz(1rem)
+        +lvyStyle()
+        &::after
+            height: 1px
+            content: ''
+            width: 0
+            display: block
+            background-color: $white
+            transition: all 0.4s
+            +mq-down(md)
+                display: none
+        &:hover
+            &::after
+                width: 100%
+                opacity: 0.8
+    &__logo
+        width: 120px
+        display: block
+        +mq-down(md)
+            margin: 0 auto
+        &:hover
+            opacity: 0.4
+    &-list
+        +flex($justify: flex-start, $align: flex-start)
+        +fz(1rem)
+        letter-spacing: 0px
+        padding: 20px 0 70px
+        +mq-down(lg)
+            justify-content: space-between
+            padding: 20px 0 30px
+        +mq-down(md)
+            display: block
+            text-align: center
+    &__address
+        +fz(1rem)
+        +sansJ()
+        letter-spacing: 0px
+        color: $white
+        display: block
+        +mq-down(md)
+            margin-bottom: 10px
+    &__coworking
+        @extend .footer__address
+        +lvyStyle()
+        margin-left: 160px
+        +mq-down(lg)
+            margin: 0
+        +mq-down(md)
+            margin-bottom: 10px
+        &::after
+            height: 1px
+            content: ''
+            width: 0
+            display: block
+            background-color: $white
+            transition: all 0.4s
+        &:hover
+            &::after
+                width: 100%
+                opacity: 0.8
+                +mq-down(md)
+                    width: 0
+    &__foto
+        @extend .footer__address
+        +lvyStyle()
+        margin-left: 30px
+        +mq-down(lg)
+            margin: 0
+        +mq-down(md)
+            margin-bottom: 10px
+        &::after
+            height: 1px
+            content: ''
+            width: 0
+            display: block
+            background-color: $white
+            transition: all 0.4s
+        &:hover
+            &::after
+                width: 100%
+                opacity: 0.8
+                +mq-down(md)
+                    width: 0
+    &-social
+        margin-left: 60px
+        +mq-down(lg)
+            margin-left: 0px
+    &__media
+        @extend .footer__address
+        +lvyStyle()
+        margin-bottom: 10px
+    &-sns
+        +flex($justify: flex-start, $align: center)
+        +mq-down(md)
+            justify-content: center
+        & .facebook
+            width: 19px
+            margin-right: 30px
+            &:hover
+                opacity: 0.4
+        & .flickr
+            width: 47px
+            &:hover
+                opacity: 0.4
+    &__copyright
+        color: $white
+        letter-spacing: 0px
+        +fz(1rem)
+        +lvyStyle()
+        font-style: italic
+        padding-bottom: 22px
+        +mq-down(md)
+            text-align: center
+    

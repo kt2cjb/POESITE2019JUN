@@ -1,0 +1,57 @@
+include _media_right.pug
+include _media_left.pug
+include _description.pug
+include _card.pug
+doctype html
+html(lang="ja")
+  head
+    include _head.pug
+  body
+    include _header.pug
+    .detail
+        .detail-visual
+        section.detail-contents
+            h1.detail__ttl H1ダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。
+            ul.detail-tag.mt40.mb70
+                - const tagLists = ['Business Design','Product Management','Business Design','Product Management','Business Design','Product Management']
+                each tagList in tagLists
+                    li.detail-tag__item.mb10
+                        a(href="#") ##{tagList}
+            h2.detail__sbttl H2ダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。
+            +mediaRight(
+                './images/jobs/jobs1.png',
+                '記事の説明',
+                'キャプションキャプションキャプションキャプションキャプションキャプションキャプションキャプション',
+                'mt80 mb80',
+                'H3ダミー。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。',
+                false,
+                'この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。',
+                false,
+                'sp-mb20')
+            +mediaLeft(
+                './images/detail/detail.png',
+                '記事の説明',
+                'キャプションキャプションキャプションキャプションキャプションキャプションキャプションキャプション',
+                'mt80 mb80',
+                false,
+                '文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。',
+                false,
+                'sp-mb20',
+                false)
+            include _emphasis.pug
+            p.detail__txt.mt100.mb100 文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。この文章はダミーです。
+            +description('mb40')
+            +description()
+            include _article.pug
+        section.detail-relation.pb60
+            h2.detail-relation__ttl WHY DONT YOU READ?
+            h3.detail-relation__sbttl 関連記事
+            .detail-relation-contents
+                .detail-relation-contents__item
+                    +card('./images/top/study1.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                .detail-relation-contents__item
+                    +card('./images/top/study2.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+                .detail-relation-contents__item
+                    +card('./images/top/study3.png', '自社製品／サービスに真の目的・目標を設定する価値づくり','リード文のダミーです。文字の大きさ、量、字間、行間等を確認するために入れています。','Business','UX','UI','SysDev','Web')
+
+    include _footer.pug

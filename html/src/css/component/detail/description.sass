@@ -1,0 +1,23 @@
+.description
+    background-color: $black3
+    color: $white
+    &-item
+        +flex($justify: space-between, $align: flex-start)
+        padding: 0 10%
+        +mq-down(md)
+            display: block
+    &__ttl
+        width: 20%
+        +sansJ()
+        +fz(1.4rem)
+        +mq-down(md)
+            +fz(1.2rem)
+            width: 100%
+            margin-bottom: 5px
+    &__txt
+        width: 75%
+        +sansJ()
+        +fz(1.4rem)
+        +mq-down(md)
+            +fz(1.2rem)
+            width: 100%
