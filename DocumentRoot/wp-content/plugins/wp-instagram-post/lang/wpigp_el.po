@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Instagram Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-21 04:29+0500\n"
+"PO-Revision-Date: 2019-01-21 04:30+0500\n"
+"Last-Translator: \n"
+"Language-Team: GenialSouls <info@genialsouls.com>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e;_\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-woo-igp.php:106
+msgid "WP Instagram Post"
+msgstr "WP Instagram Post"
+
+#: classes/class-woo-igp.php:143
+msgid "Please submit two factor code!"
+msgstr "Υποβάλετε τον κώδικα δύο παραγόντων!"
+
+#: classes/class-woo-igp.php:146
+msgid "Login Successful!"
+msgstr "Επιτυχής είσοδος"
+
+#: classes/class-woo-igp.php:160
+msgid "Unable to login Instagram!"
+msgstr "Αδυναμία σύνδεσης στο Instagram!"
+
+#: classes/class-woo-igp.php:162
+msgid "WP Instagram - Login"
+msgstr "WP Instagram - Σύνδεση"
+
+#: classes/class-woo-igp.php:186
+msgid "WP Instagram:"
+msgstr "WP Instagram:"
+
+#: classes/class-woo-igp.php:193
+msgid "Post to Instagram?"
+msgstr "Ανάρτηση στο Instagram;"
+
+#: classes/class-woo-igp.php:194
+msgid "Custom Message: (No html tags)"
+msgstr "Προσαρμοσμένο μήνυμα: (Χωρίς html tags)"
+
+#: classes/class-woo-igp.php:196
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: classes/class-woo-igp.php:197
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: classes/class-woo-igp.php:200
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: classes/class-woo-igp.php:274
+msgid "WP Instagram Post Settings!"
+msgstr "WP Instagram Post ρυθμίσεις!"
+
+#: classes/class-woo-igp.php:295
+msgid "Post to Instagram every time on post update?"
+msgstr "Δημοσίευση στο Instagram σε κάθε ενημέρωση του άρθρου;"
+
+#: classes/class-woo-igp.php:303
+msgid "Get error notifications by email?"
+msgstr "Λήψη μηνυμάτων σφάλματων μέσω emal;"
+
+#: classes/class-woo-igp.php:312
+msgid "Show Product Price?"
+msgstr "Τιμή προϊόντος"
+
+#: classes/class-woo-igp.php:321
+msgid "Show Post Link?"
+msgstr "Δείτε το Post σύνδεση;"
+
+#: classes/class-woo-igp.php:329
+msgid "Include Post tags?"
+msgstr "Συμπεριλάβετε ετικέτες δημοσίευσης;"
+
+#: classes/class-woo-igp.php:337
+msgid "Show Post Details (words)"
+msgstr "Εμφάνιση λεπτομερειών Post (λέξεις)"
+
+#: classes/class-woo-igp.php:345
+msgid "Select post types to post to Instagram!"
+msgstr "Επιλέξτε τύπους άρθρων για δημοσίευση στο Instagram!"
+
+#: classes/class-woo-igp.php:396
+msgid "Only new posts will be posted to Instagram."
+msgstr "Μόνο νέες θέσεις θα αναρτηθούν στο Instagram."
+
+#: classes/class-woo-igp.php:413
+msgid "Get error notifications in site admin inbox."
+msgstr "Λάβετε ειδοποιήσεις σφάλματος στα Εισερχόμενα admin του site."
+
+#: classes/class-woo-igp.php:429
+msgid "Select if you want to show product price to Instagram."
+msgstr ""
+"Επιλέξτε εάν θέλετε να εμφανίσετε την τιμή των προϊόντων στο Instagram."
+
+#: classes/class-woo-igp.php:445
+msgid "Select if you want to show post URL to Instagram."
+msgstr ""
+"Επιλέξτε εάν θέλετε να εμφανίσετε την διεύθυνση URL δημοσίευσης στο "
+"Instagram."
+
+#: classes/class-woo-igp.php:461
+msgid "Include post tags as hashtags for Instagram."
+msgstr "Συμπεριλάβετε ετικέτες δημοσίευσης ως hashtag για το Instagram."
+
+#: classes/class-woo-igp.php:479
+msgid "Number of words in Instagram post. Enter 0 for no description."
+msgstr "Αριθμός λέξεων σε post στο Instagram. Εισάγετε 0 για καμία περιγραφή."
+
+#: classes/class-woo-igp.php:510
+msgid "Settings!"
+msgstr "Ρυθμίσεις"
+
+#: classes/class-woo-igp.php:521
+msgid "Post Types for Instagram!"
+msgstr "Τύποι δημοσίευση για το Instagram!"
+
+#: classes/class-woo-igp.php:533
+msgid "Post Format for Instagram!"
+msgstr "Post μορφή για το Instagram!"
+
+#: classes/class-woo-igp.php:597
+msgid "Price: "
+msgstr "Τιμή: "
+
+#: classes/class-woo-igp.php:616
+msgid "Link: "
+msgstr "Σύνδεσμος: "
+
+#: classes/class-woo-igp.php:642
+msgid "Dear user,"
+msgstr "Αγαπητέ χρήστη,"
+
+#: classes/class-woo-igp.php:643
+msgid "Your post ID "
+msgstr "Το αναγνωριστικό του άρθρου σας "
+
+#: classes/class-woo-igp.php:643
+msgid " not posted on Instragram due to following reason."
+msgstr " δε δημοσιεύθηκε στο Instagram λόγω του ακόλουθου λόγου."
+
+#: classes/class-woo-igp.php:646
+msgid "WP Instagram - Notification"
+msgstr "WP Instagram - Ειδοποίηση"
+
+#: classes/class-woo-igp.php:740 classes/class-woo-igp.php:767
+msgid "User info updated!"
+msgstr "Οι πληροφορίες του χρήστη ενημερώθηκαν!"
+
+#: classes/class-woo-igp.php:743
+msgid "Empty Username or Password!"
+msgstr "Κενό όνομα χρήστη ή συνθηματικό!"
+
+#: classes/class-woo-igp.php:770
+msgid "Something went wrong! Try again."
+msgstr "Κάτι πήγε στραβά. Παρακαλώ δοκιμάστε ξανά!"
+
+#: classes/class-woo-igp.php:809
+msgid "Deleted"
+msgstr "Διαγραμμένο"
+
+#: classes/class-woo-igp.php:812
+msgid "Error deleting user! Please try later!"
+msgstr "Σφάλμα κατά τη διαγραφή του χρήστη! Παρακαλώ δοκιμάστε αργότερα!"
+
+#: classes/instagram_widget.php:15
+msgid "WP Instagram Post Widget"
+msgstr "WP Instagram Post Μικροεφαρμογή"
+
+#: classes/instagram_widget.php:16
+msgid "A WP Instagram Widget to show user images"
+msgstr "Μια WP Instagram μικροεφαρμογή για να εμφανίζει εικόνες χρήστη"
+
+#: classes/instagram_widget.php:54
+msgid "Nothing found!"
+msgstr "Δε βρέθηκε τίποτα!"
+
+#: classes/instagram_widget.php:104
+msgid "Instagram!"
+msgstr "Instagram!"
+
+#: classes/instagram_widget.php:116 wpigp.logins.php:40
+msgid "Instagram Username"
+msgstr "Όνομα χρήστη Instagram"
+
+#: classes/instagram_widget.php:117
+msgid "Enter Instagram User"
+msgstr "Εισάγετε το Instagram όνομα χρήστη"
+
+#: classes/instagram_widget.php:121
+msgid "Number of Images! 1 to 15"
+msgstr "Αριθμός εικόνων! 1 έως 15"
+
+#: classes/instagram_widget.php:130
+msgid "Image Style"
+msgstr "Στυλ εικόνας"
+
+#: classes/instagram_widget.php:132
+msgid "Thumbnail (Square)"
+msgstr "Μικρογραφία (τετράγωνη)"
+
+#: classes/instagram_widget.php:133
+msgid "Original (Keep aspect ratio)"
+msgstr "Αρχική (Διατήρηση αναλογίας)"
+
+#: right_area.php:4
+msgid "WP Instagram Pro version is here."
+msgstr "Η έκδοση WP Instagram Pro είναι εδώ."
+
+#: right_area.php:72
+msgid "Liked WP Instagram Post?"
+msgstr "Σας άρεσε το WP Instagram Post;"
+
+#: right_area.php:83
+msgid "Please Rate Us Here!"
+msgstr "Παρακαλούμε αξιολογήστε μας εδώ!"
+
+#: right_area.php:87
+msgid "Need more help? Please contact: "
+msgstr "Χρειάζεστε περισσότερη βοήθεια; Παρακαλώ επικοινωνήστε: "
+
+#: right_area.php:90
+msgid "Contact Us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: wpigp.logins.php:8 wpigp.logins.php:12
+msgid "WP Instagram Logins"
+msgstr "WP Instagram Συνδέσεις"
+
+#: wpigp.logins.php:14
+msgid ""
+"Connect your site to Instagram and automatically share posts with your "
+"friends."
+msgstr ""
+"Συνδέστε την ιστοσελίδα σας στο Instagram και μοιραστείτε αυτόματα τις "
+"αναρτήσεις με τους φίλους σας."
+
+#: wpigp.logins.php:18
+msgid "Important Notice:"
+msgstr "Σημαντική σημείωση:"
+
+#: wpigp.logins.php:20
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+"Χρησιμοποιείτε Internet Explorer. Αυτό το πρόσθετο μπορεί να μη δουλέψει "
+"σωστά με IE. Παρακαλούμε χρησιμοποιήστε άλλον περιηγητή."
+
+#: wpigp.logins.php:21
+msgid "Recommended: Google Chrome."
+msgstr "Συνιστάται: Google Chrome."
+
+#: wpigp.logins.php:38
+msgid "Username:"
+msgstr "Όνομα χρήστη:"
+
+#: wpigp.logins.php:41
+msgid "Don't have an Instagram account? You can create from "
+msgstr "Δεν έχετε λογαριασμό Instagram; Μπορείτε να δημιουργήσετε από "
+
+#: wpigp.logins.php:46
+msgid "Password:"
+msgstr "Συνθηματικό:"
+
+#: wpigp.logins.php:48
+msgid "Instagram Password"
+msgstr "Συνθηματικό Instagram"
+
+#: wpigp.logins.php:52
+msgid "Proxy"
+msgstr "Πληρεξούσιο"
+
+#: wpigp.logins.php:52
+msgid " ( optional ):"
+msgstr "(προαιρετικά)"
+
+#: wpigp.logins.php:56
+msgid "Try Instagram Proxies:"
+msgstr "Δοκιμάστε τους Proxies Instagram:"
+
+#: wpigp.logins.php:63
+msgid "Code:"
+msgstr "Κωδικός:"
+
+#: wpigp.logins.php:66
+msgid "Instagram verification code!"
+msgstr "Κωδικός επαλήθευσης Instagram!"
+
+#: wpigp.logins.php:69
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: wpigp.logins.php:82
+msgid "Connect"
+msgstr "Σύνδεση"
+
+#: wpigp.logins.php:97
+msgid "Instagram User!"
+msgstr "Εισάγετε το Instagram όνομα χρήστη"
+
+#: wpigp.logins.php:113
+msgid "Delete User!"
+msgstr "Διαγραφή χρήστη"
+
+#: wpigp.logins.php:133
+msgid "Connected"
+msgstr "Συνδεδεμένο"
+
+#: wpigp.logins.php:138
+msgid "Full Name:"
+msgstr ""
+
+#: wpigp.logins.php:147
+msgid "Response:"
+msgstr ""
+
+#: wpigp.logins.php:158
+msgid "No Instagram user added."
+msgstr ""
+
+#: wpigp.logins.php:171
+msgid "Required Server Extensions!"
+msgstr ""
+
+#: wpigp.logins.php:178
+msgid "You May Also Like!"
+msgstr ""
+
+#: wpigp.logins.php:189
+msgid "* WP Facebook Comments *"
+msgstr "* WP Facebook Σχόλια *"
+
+#: wpigp.logins.php:190
+msgid "* Add Facebook comments at your site."
+msgstr "* Προσθέστε τα σχόλια του Facebook στην ιστοσελίδα σας."
+
+#: wpigp.logins.php:191
+msgid "* Share comments on Facebook."
+msgstr "* Μοιραστείτε τα σχόλια στο Facebook."
+
+#: wpigp.logins.php:192
+msgid "* Add Facebook comments on all types of posts."
+msgstr "* Προσθέστε σχόλια του Facebook σε όλους τους τύπους αναρτήσεων."
+
+#: wpigp.logins.php:193
+msgid "* Customize comments box."
+msgstr "* Προσαρμόστε το πλαίσιο σχολίων."
+
+#: wpigp.logins.php:194
+msgid "* Ability to moderation of comments."
+msgstr "* Δυνατότητα ελέγχου των σχολίων."
+
+#: wpigp.logins.php:195 wpigp.logins.php:215
+msgid "* And many more..."
+msgstr "* Και πολλά άλλα..."
+
+#: wpigp.logins.php:209
+msgid "* WooSocio Free version *"
+msgstr "* WooSocio Δωρεάν έκδοση *"
+
+#: wpigp.logins.php:210
+msgid "* Post product to Facebook, pages and groups"
+msgstr "* Δημοσιεύστε προϊόντα στο Facebook, σελίδες και γκρουπ"
+
+#: wpigp.logins.php:211
+msgid "* post to groups you dont manage"
+msgstr "* δημοσιεύστε σε γκρουπ που δεν διαχειρίζεστε"
+
+#: wpigp.logins.php:212
+msgid "* Add widget for Facebook like box"
+msgstr "* Προσθήκη μικροεφαρμογής για το Facebook like πλαίσιο"
+
+#: wpigp.logins.php:213
+msgid "* Multi user ready"
+msgstr "* Έτοιμοι για πολλαπλούς χρήστες"
+
+#: wpigp.logins.php:214
+msgid "* Post as image or link"
+msgstr "* Δημοσίευση ως εικόνα ή σύνδεσμο"
+
+#: wpigp.logins.php:230
+msgid "* WooTweet Free *"
+msgstr "* WooTweet Δωρεάν *"
+
+#: wpigp.logins.php:232
+msgid "* Post product to Twitter"
+msgstr "* Ανάρτηση προϊόντος στο Twitter"
+
+#: wpigp.logins.php:233
+msgid "* Post products multiple times(on every update)"
+msgstr "* Ανάρτηση προϊόντων πολλαπλές φορές (σε κάθε ενημέρωση)"
+
+#: wpigp.logins.php:234
+msgid "* Add Tweet Widget for latest Tweets"
+msgstr "* Προσθήκη Tweet μικροεφαρμογής για τα πρόσφατα Tweets"
+
+#: wpigp.logins.php:235
+msgid "* And many more to come..."
+msgstr "* Και πολλά ακόμη έπονται..."
+
+#~ msgid "Number of Images! 1 to 12"
+#~ msgstr "Αριθμός εικόνων! 1 έως 12"
+
+#~ msgid "WP Instagram Options"
+#~ msgstr "Επιλογές WP Instagram"
+
+#~ msgid "Settings"
+#~ msgstr "Ρυθμίσεις"

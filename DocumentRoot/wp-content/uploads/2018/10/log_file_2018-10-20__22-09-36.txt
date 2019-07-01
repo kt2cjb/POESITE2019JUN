@@ -1,0 +1,148 @@
+
+---Downloaded files---
+The import files for: Ineco Creative were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://tm-colors.com/ineco
+Data file = /var/www/u0418635/public_html/tm-colors.com/ineco/wp-content/themes/ineco/admin/demo_install/demo_file/demo-content.xml
+Widget file = /var/www/u0418635/public_html/tm-colors.com/ineco/wp-content/themes/ineco/admin/demo_install/demo_file/widgets.json
+Customizer file = /var/www/u0418635/public_html/tm-colors.com/ineco/wp-content/themes/ineco/admin/demo_install/demo_file/customizer1.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Fl About Me - About Me - Imported
+Fl Most Commented Posts - Most Commented - Imported
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Page Sidebar : 
+
+Text - About Me - Imported
+Fl Recent Posts - Recent Posts - Imported
+Instagram - Instagram - Imported
+
+Work Sidebar : 
+
+Cart - Cart - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+Products - Products - Imported
+Product Search - No Title - Imported
+Recent Product Reviews - Recent reviews - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer Sidebar : 
+
+Text - About Me - Imported
+Fl Recent Posts - Recent Posts - Imported
+Instagram - Instagram - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

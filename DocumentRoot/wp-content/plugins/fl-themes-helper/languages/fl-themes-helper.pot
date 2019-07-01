@@ -1,0 +1,3913 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Fl Themes Helper\n"
+"POT-Creation-Date: 2018-04-02 15:09+0300\n"
+"PO-Revision-Date: 2018-04-02 15:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: fl-themes-helper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom_taxonomy/work.php:11
+msgid "Work"
+msgstr ""
+
+#: custom_taxonomy/work.php:12
+msgid "Work Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:13
+msgid "Add New Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:14 custom_taxonomy/work.php:16
+msgid "Add New Work Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:15
+msgid "Edit Work Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:17
+msgid "View Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:18
+msgid "Search Work"
+msgstr ""
+
+#: custom_taxonomy/work.php:19
+msgid "No work items found"
+msgstr ""
+
+#: custom_taxonomy/work.php:20
+msgid "No work items found in trash"
+msgstr ""
+
+#: custom_taxonomy/work.php:45 custom_taxonomy/work.php:59
+msgid "Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:46
+msgid "Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:47
+msgid "Search Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:48
+msgid "Popular Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:49
+msgid "All Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:50
+msgid "Parent Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:51
+msgid "Parent Work Category:"
+msgstr ""
+
+#: custom_taxonomy/work.php:52
+msgid "Edit Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:53
+msgid "Update Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:54
+msgid "Add New Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:55
+msgid "New Work Category Name"
+msgstr ""
+
+#: custom_taxonomy/work.php:56
+msgid "Separate Work categories with commas"
+msgstr ""
+
+#: custom_taxonomy/work.php:57
+msgid "Add or remove Work categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:58
+msgid "Choose from the most used Work categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:85
+msgid "Thumbnail"
+msgstr ""
+
+#: dashboard/dashboard.php:36
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: dashboard/dashboard.php:37
+#, php-format
+msgid ""
+"Thanks for purchasing %1$s. We really appreciate your choice. If you like "
+"our theme and support, please rate it 5 stars. More information can be found "
+"below."
+msgstr ""
+
+#: dashboard/dashboard.php:38
+#, php-format
+msgid "Thank you for buying %s!"
+msgstr ""
+
+#: dashboard/dashboard.php:39
+msgid "Requirements"
+msgstr ""
+
+#: dashboard/dashboard.php:40 theme-information.php:48
+msgid "Some Problems"
+msgstr ""
+
+#: dashboard/dashboard.php:41 theme-information.php:43
+msgid "No Problems"
+msgstr ""
+
+#: dashboard/dashboard.php:42
+msgid "More Info"
+msgstr ""
+
+#: dashboard/welcome.php:67 theme-information.php:59
+msgid "PHP Version:"
+msgstr ""
+
+#: dashboard/welcome.php:78 theme-information.php:69
+#, php-format
+msgid "We recommend upgrade php version to at least %s."
+msgstr ""
+
+#: dashboard/welcome.php:87 theme-information.php:100
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: dashboard/welcome.php:97
+#, php-format
+msgid ""
+"For normal usage will be enough 128M, but for importing demo we recommend "
+"setting memory to at least %s."
+msgstr ""
+
+#: dashboard/welcome.php:100
+#, php-format
+msgid "Read more: %s"
+msgstr ""
+
+#: dashboard/welcome.php:100 theme-information.php:115
+msgid "Increasing memory allocated to PHP."
+msgstr ""
+
+#: dashboard/welcome.php:110 theme-information.php:77
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: dashboard/welcome.php:120 theme-information.php:87
+#, php-format
+msgid "We recommend setting max execution time to at least %s."
+msgstr ""
+
+#: dashboard/welcome.php:122 theme-information.php:90 theme-information.php:114
+#, php-format
+msgid "See more: %s"
+msgstr ""
+
+#: dashboard/welcome.php:122 theme-information.php:91
+msgid "Increasing max execution to PHP"
+msgstr ""
+
+#: dashboard/welcome.php:131 theme-information.php:123
+msgid "Child Theme:"
+msgstr ""
+
+#: dashboard/welcome.php:139 theme-information.php:134
+msgid ""
+"We recommend use child theme to prevent loosing your customizations after "
+"theme update."
+msgstr ""
+
+#: function/custom_function.php:12
+msgid "Facebook Username"
+msgstr ""
+
+#: function/custom_function.php:13
+msgid "Google Plus Username"
+msgstr ""
+
+#: function/custom_function.php:14
+msgid "Instagram Username"
+msgstr ""
+
+#: function/custom_function.php:15
+msgid "Pinterest Username"
+msgstr ""
+
+#: function/custom_function.php:16
+msgid "Twitter Username"
+msgstr ""
+
+#: function/custom_function.php:17
+msgid "Behance Username"
+msgstr ""
+
+#: function/like/post-like.php:32 function/like/post-like.php:226
+msgid "Like"
+msgstr ""
+
+#: function/like/post-like.php:33 function/like/post-like.php:222
+msgid "Unlike"
+msgstr ""
+
+#: function/like/post-like.php:47
+msgid "Not permitted"
+msgstr ""
+
+#: function/like/post-like.php:365
+msgid "You Like:"
+msgstr ""
+
+#: function/like/post-like.php:391
+msgid "You do not like anything yet."
+msgstr ""
+
+#: function/load-more-function/load-more-blog.php:71
+#: vc_templates/shortcode/vc_fl_blog.php:221
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:90
+#: widgets/widget-recent-post.php:73
+msgid "No Title"
+msgstr ""
+
+#: function/load-more-function/load-more-blog.php:78
+#: vc_templates/shortcode/vc_fl_blog.php:228
+#: widgets/widget-mostcommented.php:77 widgets/widget-recent-post.php:79
+msgid "Comments"
+msgstr ""
+
+#: function/load-more-function/load-more-blog.php:78
+#: vc_templates/shortcode/vc_fl_blog.php:228
+#: widgets/widget-mostcommented.php:77 widgets/widget-recent-post.php:79
+msgid "Comment"
+msgstr ""
+
+#: function/load-more-function/load-more-blog.php:89
+#: vc_templates/shortcode/vc_fl_blog.php:239
+msgid "By"
+msgstr ""
+
+#: theme-information.php:4
+msgid "Welcome to"
+msgstr ""
+
+#: theme-information.php:9
+msgid "Thank you very much for purchasing our theme."
+msgstr ""
+
+#: theme-information.php:42 theme-information.php:47
+msgid "Recommendations"
+msgstr ""
+
+#: theme-information.php:67 theme-information.php:85 theme-information.php:106
+#: theme-information.php:131
+msgid "[more info]"
+msgstr ""
+
+#: theme-information.php:109
+#, php-format
+msgid "We recommend setting memory to at least %s."
+msgstr ""
+
+#: theme-information.php:152
+msgid "Support"
+msgstr ""
+
+#: theme-information.php:155
+msgid ""
+"Have troubles, found a bug or want to suggest something? Write in support "
+"system."
+msgstr ""
+
+#: theme-information.php:156
+msgid ""
+"Make sure, you have a valid license, otherwise we don't provide support."
+msgstr ""
+
+#: theme-information.php:158
+msgid "Get Support"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_parrent.php:38
+msgid "Accordion"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_parrent.php:44
+#: vc_templates/shortcode/vc_fl_accordion_row.php:82
+#: vc_templates/shortcode/vc_fl_alert.php:81
+#: vc_templates/shortcode/vc_fl_banners.php:199
+#: vc_templates/shortcode/vc_fl_blog.php:401
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:113
+#: vc_templates/shortcode/vc_fl_button.php:183
+#: vc_templates/shortcode/vc_fl_counters.php:173
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:52
+#: vc_templates/shortcode/vc_fl_drops_caps.php:104
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:108
+#: vc_templates/shortcode/vc_fl_gallery.php:213
+#: vc_templates/shortcode/vc_fl_gif.php:79
+#: vc_templates/shortcode/vc_fl_google_map.php:124
+#: vc_templates/shortcode/vc_fl_icon_box.php:240
+#: vc_templates/shortcode/vc_fl_icon_single.php:162
+#: vc_templates/shortcode/vc_fl_image_single.php:125
+#: vc_templates/shortcode/vc_fl_image_slider.php:160
+#: vc_templates/shortcode/vc_fl_list_table.php:41
+#: vc_templates/shortcode/vc_fl_partner_block.php:45
+#: vc_templates/shortcode/vc_fl_partner_slider.php:89
+#: vc_templates/shortcode/vc_fl_pie.php:82
+#: vc_templates/shortcode/vc_fl_pricing_table.php:238
+#: vc_templates/shortcode/vc_fl_progress_bar.php:208
+#: vc_templates/shortcode/vc_fl_separator.php:235
+#: vc_templates/shortcode/vc_fl_share.php:112
+#: vc_templates/shortcode/vc_fl_social_link.php:117
+#: vc_templates/shortcode/vc_fl_sticky_box.php:38
+#: vc_templates/shortcode/vc_fl_team.php:238
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:133
+#: vc_templates/shortcode/vc_fl_time_line_block.php:48
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:81
+#: vc_templates/shortcode/vc_fl_title.php:109
+#: vc_templates/shortcode/vc_fl_video_box.php:151
+#: vc_templates/shortcode/vc_fl_work_info_table.php:41
+#: vc_templates/shortcode/vc_fl_works.php:349
+msgid "Fl Theme"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_parrent.php:53
+#: vc_templates/shortcode/vc_fl_accordion_row.php:162
+#: vc_templates/shortcode/vc_fl_alert.php:170
+#: vc_templates/shortcode/vc_fl_banners.php:456
+#: vc_templates/shortcode/vc_fl_blog.php:918
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:199
+#: vc_templates/shortcode/vc_fl_button.php:565
+#: vc_templates/shortcode/vc_fl_counters.php:593
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:84
+#: vc_templates/shortcode/vc_fl_drops_caps.php:249
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:114
+#: vc_templates/shortcode/vc_fl_gallery.php:361
+#: vc_templates/shortcode/vc_fl_gif.php:109
+#: vc_templates/shortcode/vc_fl_google_map.php:237
+#: vc_templates/shortcode/vc_fl_icon_box.php:700
+#: vc_templates/shortcode/vc_fl_icon_single.php:536
+#: vc_templates/shortcode/vc_fl_image_single.php:242
+#: vc_templates/shortcode/vc_fl_image_slider.php:281
+#: vc_templates/shortcode/vc_fl_list_table.php:48
+#: vc_templates/shortcode/vc_fl_partner_block.php:63
+#: vc_templates/shortcode/vc_fl_partner_row.php:124
+#: vc_templates/shortcode/vc_fl_partner_slider.php:151
+#: vc_templates/shortcode/vc_fl_pie.php:309
+#: vc_templates/shortcode/vc_fl_pricing_row.php:52
+#: vc_templates/shortcode/vc_fl_pricing_table.php:574
+#: vc_templates/shortcode/vc_fl_progress_bar.php:289
+#: vc_templates/shortcode/vc_fl_separator.php:623
+#: vc_templates/shortcode/vc_fl_social_link.php:212
+#: vc_templates/shortcode/vc_fl_sticky_box.php:48
+#: vc_templates/shortcode/vc_fl_team.php:642
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:270
+#: vc_templates/shortcode/vc_fl_time_line_block.php:52
+#: vc_templates/shortcode/vc_fl_title.php:283
+#: vc_templates/shortcode/vc_fl_video_box.php:249
+#: vc_templates/shortcode/vc_fl_work_info_row.php:178
+#: vc_templates/shortcode/vc_fl_work_info_table.php:49
+#: vc_templates/shortcode/vc_fl_works.php:941
+msgid "Custom Classes"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_parrent.php:60
+#: vc_templates/shortcode/vc_fl_accordion_row.php:169
+#: vc_templates/shortcode/vc_fl_alert.php:178
+#: vc_templates/shortcode/vc_fl_banners.php:463
+#: vc_templates/shortcode/vc_fl_blog.php:925
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:206
+#: vc_templates/shortcode/vc_fl_button.php:572
+#: vc_templates/shortcode/vc_fl_counters.php:600
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:91
+#: vc_templates/shortcode/vc_fl_drops_caps.php:256
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:270
+#: vc_templates/shortcode/vc_fl_gallery.php:368
+#: vc_templates/shortcode/vc_fl_gif.php:116
+#: vc_templates/shortcode/vc_fl_google_map.php:244
+#: vc_templates/shortcode/vc_fl_icon_box.php:707
+#: vc_templates/shortcode/vc_fl_icon_single.php:543
+#: vc_templates/shortcode/vc_fl_image_single.php:249
+#: vc_templates/shortcode/vc_fl_image_slider.php:352
+#: vc_templates/shortcode/vc_fl_list_row.php:401
+#: vc_templates/shortcode/vc_fl_list_table.php:55
+#: vc_templates/shortcode/vc_fl_partner_block.php:70
+#: vc_templates/shortcode/vc_fl_partner_row.php:131
+#: vc_templates/shortcode/vc_fl_partner_slider.php:158
+#: vc_templates/shortcode/vc_fl_pie.php:316
+#: vc_templates/shortcode/vc_fl_pricing_row.php:59
+#: vc_templates/shortcode/vc_fl_pricing_table.php:582
+#: vc_templates/shortcode/vc_fl_progress_bar.php:344
+#: vc_templates/shortcode/vc_fl_separator.php:630
+#: vc_templates/shortcode/vc_fl_share.php:332
+#: vc_templates/shortcode/vc_fl_social_link.php:392
+#: vc_templates/shortcode/vc_fl_sticky_box.php:55
+#: vc_templates/shortcode/vc_fl_team.php:649
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:277
+#: vc_templates/shortcode/vc_fl_time_line_block.php:59
+#: vc_templates/shortcode/vc_fl_title.php:291
+#: vc_templates/shortcode/vc_fl_video_box.php:342
+#: vc_templates/shortcode/vc_fl_work_info_row.php:185
+#: vc_templates/shortcode/vc_fl_work_info_table.php:56
+#: vc_templates/shortcode/vc_fl_works.php:948
+msgid "CSS"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_parrent.php:62
+#: vc_templates/shortcode/vc_fl_accordion_row.php:171
+#: vc_templates/shortcode/vc_fl_alert.php:180
+#: vc_templates/shortcode/vc_fl_banners.php:465
+#: vc_templates/shortcode/vc_fl_blog.php:927
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:208
+#: vc_templates/shortcode/vc_fl_button.php:574
+#: vc_templates/shortcode/vc_fl_counters.php:602
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:93
+#: vc_templates/shortcode/vc_fl_drops_caps.php:258
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:272
+#: vc_templates/shortcode/vc_fl_gallery.php:370
+#: vc_templates/shortcode/vc_fl_gif.php:118
+#: vc_templates/shortcode/vc_fl_google_map.php:246
+#: vc_templates/shortcode/vc_fl_icon_box.php:709
+#: vc_templates/shortcode/vc_fl_icon_single.php:545
+#: vc_templates/shortcode/vc_fl_image_single.php:251
+#: vc_templates/shortcode/vc_fl_image_slider.php:354
+#: vc_templates/shortcode/vc_fl_list_row.php:403
+#: vc_templates/shortcode/vc_fl_list_table.php:57
+#: vc_templates/shortcode/vc_fl_partner_block.php:72
+#: vc_templates/shortcode/vc_fl_partner_row.php:133
+#: vc_templates/shortcode/vc_fl_partner_slider.php:160
+#: vc_templates/shortcode/vc_fl_pie.php:318
+#: vc_templates/shortcode/vc_fl_pricing_row.php:61
+#: vc_templates/shortcode/vc_fl_pricing_table.php:584
+#: vc_templates/shortcode/vc_fl_progress_bar.php:346
+#: vc_templates/shortcode/vc_fl_separator.php:632
+#: vc_templates/shortcode/vc_fl_share.php:334
+#: vc_templates/shortcode/vc_fl_social_link.php:394
+#: vc_templates/shortcode/vc_fl_sticky_box.php:57
+#: vc_templates/shortcode/vc_fl_team.php:651
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:279
+#: vc_templates/shortcode/vc_fl_time_line_block.php:61
+#: vc_templates/shortcode/vc_fl_title.php:293
+#: vc_templates/shortcode/vc_fl_video_box.php:344
+#: vc_templates/shortcode/vc_fl_work_info_row.php:187
+#: vc_templates/shortcode/vc_fl_work_info_table.php:58
+#: vc_templates/shortcode/vc_fl_works.php:950
+msgid "Design Options"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:76
+msgid "Accordion row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:93
+msgid "Accordion Header Text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:96
+#: vc_templates/shortcode/vc_fl_team.php:399
+#: vc_templates/shortcode/vc_fl_team.php:428
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:328
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:94
+#: vc_templates/shortcode/vc_fl_time_line_slider_row.php:93
+msgid "Enter your content."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:101
+#: vc_templates/shortcode/vc_fl_button.php:244
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:77
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:188
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:244
+#: vc_templates/shortcode/vc_fl_pie.php:238
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:364
+msgid "Text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:109
+msgid "Accordion background style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:113
+#: vc_templates/shortcode/vc_fl_blog.php:649
+#: vc_templates/shortcode/vc_fl_button.php:259
+#: vc_templates/shortcode/vc_fl_drops_caps.php:133
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:334
+#: vc_templates/shortcode/vc_fl_works.php:660
+msgid "Background"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:114
+#: vc_templates/shortcode/vc_fl_list_row.php:152
+msgid "Border bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:120
+#: vc_templates/shortcode/vc_fl_button.php:267
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:345
+msgid "Background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:127
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:150
+#: vc_templates/shortcode/vc_fl_team.php:362
+msgid "Alignment"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:129
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:152
+#: vc_templates/shortcode/vc_fl_team.php:364
+msgid "Select text alignment."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:132
+#: vc_templates/shortcode/vc_fl_accordion_row.php:154
+#: vc_templates/shortcode/vc_fl_button.php:204
+#: vc_templates/shortcode/vc_fl_button.php:393
+#: vc_templates/shortcode/vc_fl_counters.php:185
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:155
+#: vc_templates/shortcode/vc_fl_icon_box.php:251
+#: vc_templates/shortcode/vc_fl_icon_box.php:261
+#: vc_templates/shortcode/vc_fl_icon_box.php:656
+#: vc_templates/shortcode/vc_fl_icon_single.php:184
+#: vc_templates/shortcode/vc_fl_separator.php:293
+#: vc_templates/shortcode/vc_fl_share.php:149
+#: vc_templates/shortcode/vc_fl_social_link.php:154
+#: vc_templates/shortcode/vc_fl_team.php:367
+msgid "Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:133
+#: vc_templates/shortcode/vc_fl_accordion_row.php:155
+#: vc_templates/shortcode/vc_fl_button.php:205
+#: vc_templates/shortcode/vc_fl_button.php:394
+#: vc_templates/shortcode/vc_fl_counters.php:184
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:156
+#: vc_templates/shortcode/vc_fl_icon_box.php:250
+#: vc_templates/shortcode/vc_fl_icon_box.php:262
+#: vc_templates/shortcode/vc_fl_icon_box.php:657
+#: vc_templates/shortcode/vc_fl_icon_single.php:186
+#: vc_templates/shortcode/vc_fl_separator.php:247
+#: vc_templates/shortcode/vc_fl_separator.php:295
+#: vc_templates/shortcode/vc_fl_share.php:151
+#: vc_templates/shortcode/vc_fl_social_link.php:156
+#: vc_templates/shortcode/vc_fl_team.php:368
+#: vc_templates/shortcode/vc_fl_title.php:121
+msgid "Right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:134
+#: vc_templates/shortcode/vc_fl_button.php:206
+#: vc_templates/shortcode/vc_fl_counters.php:183
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:157
+#: vc_templates/shortcode/vc_fl_icon_single.php:185
+#: vc_templates/shortcode/vc_fl_separator.php:246
+#: vc_templates/shortcode/vc_fl_separator.php:294
+#: vc_templates/shortcode/vc_fl_share.php:150
+#: vc_templates/shortcode/vc_fl_social_link.php:155
+#: vc_templates/shortcode/vc_fl_team.php:288
+#: vc_templates/shortcode/vc_fl_team.php:369
+#: vc_templates/shortcode/vc_fl_title.php:120
+msgid "Center"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:139
+msgid "Icon Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:140
+msgid "Select icon style."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:143
+#: vc_templates/shortcode/vc_fl_image_slider.php:208
+msgid "Arrow"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:144
+msgid "Plus"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:150
+#: vc_templates/shortcode/vc_fl_button.php:389
+msgid "Icon Alignment"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:151
+#: vc_templates/shortcode/vc_fl_button.php:390
+msgid "Select icon alignment."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_accordion_row.php:156
+msgid "Float None"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:79
+msgid "Alert info box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:91
+msgid "Alert text Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:98
+msgid "Alert Icon Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:105
+msgid "Alert Background Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:112
+msgid "Alert icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:113
+#: vc_templates/shortcode/vc_fl_alert.php:142
+msgid "Select you icon."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:115
+#: vc_templates/shortcode/vc_fl_banners.php:226
+#: vc_templates/shortcode/vc_fl_blog.php:894
+#: vc_templates/shortcode/vc_fl_gallery.php:305
+#: vc_templates/shortcode/vc_fl_gallery.php:337
+#: vc_templates/shortcode/vc_fl_google_map.php:206
+#: vc_templates/shortcode/vc_fl_icon_box.php:554
+#: vc_templates/shortcode/vc_fl_icon_single.php:480
+#: vc_templates/shortcode/vc_fl_share.php:122
+#: vc_templates/shortcode/vc_fl_social_link.php:127
+#: vc_templates/shortcode/vc_fl_team.php:274
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:157
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:247
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:403
+#: vc_templates/shortcode/vc_fl_title.php:225
+#: vc_templates/shortcode/vc_fl_video_box.php:167
+#: vc_templates/shortcode/vc_fl_works.php:879
+msgid "Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:116
+#: vc_templates/shortcode/vc_fl_alert.php:145
+#: vc_templates/shortcode/vc_fl_google_map.php:205
+#: vc_templates/shortcode/vc_fl_pricing_table.php:543
+#: vc_templates/shortcode/vc_fl_share.php:161
+#: vc_templates/shortcode/vc_fl_share.php:294
+#: vc_templates/shortcode/vc_fl_social_link.php:166
+#: vc_templates/shortcode/vc_fl_social_link.php:356
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:404
+#: vc_templates/shortcode/vc_fl_video_box.php:168
+msgid "Custom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:125
+#: vc_templates/shortcode/vc_fl_alert.php:154
+#: vc_templates/shortcode/vc_fl_button.php:401
+#: vc_templates/shortcode/vc_fl_button.php:415
+#: vc_templates/shortcode/vc_fl_button.php:430
+#: vc_templates/shortcode/vc_fl_button.php:445
+#: vc_templates/shortcode/vc_fl_button.php:460
+#: vc_templates/shortcode/vc_fl_button.php:475
+#: vc_templates/shortcode/vc_fl_button.php:490
+#: vc_templates/shortcode/vc_fl_button.php:505
+#: vc_templates/shortcode/vc_fl_button.php:520
+#: vc_templates/shortcode/vc_fl_button.php:535
+#: vc_templates/shortcode/vc_fl_button.php:550
+#: vc_templates/shortcode/vc_fl_counters.php:409
+#: vc_templates/shortcode/vc_fl_counters.php:423
+#: vc_templates/shortcode/vc_fl_counters.php:438
+#: vc_templates/shortcode/vc_fl_counters.php:453
+#: vc_templates/shortcode/vc_fl_counters.php:468
+#: vc_templates/shortcode/vc_fl_counters.php:483
+#: vc_templates/shortcode/vc_fl_counters.php:498
+#: vc_templates/shortcode/vc_fl_counters.php:513
+#: vc_templates/shortcode/vc_fl_counters.php:528
+#: vc_templates/shortcode/vc_fl_counters.php:543
+#: vc_templates/shortcode/vc_fl_counters.php:558
+#: vc_templates/shortcode/vc_fl_icon_box.php:364
+#: vc_templates/shortcode/vc_fl_icon_box.php:378
+#: vc_templates/shortcode/vc_fl_icon_box.php:393
+#: vc_templates/shortcode/vc_fl_icon_box.php:408
+#: vc_templates/shortcode/vc_fl_icon_box.php:423
+#: vc_templates/shortcode/vc_fl_icon_box.php:438
+#: vc_templates/shortcode/vc_fl_icon_box.php:453
+#: vc_templates/shortcode/vc_fl_icon_box.php:468
+#: vc_templates/shortcode/vc_fl_icon_box.php:483
+#: vc_templates/shortcode/vc_fl_icon_box.php:498
+#: vc_templates/shortcode/vc_fl_icon_box.php:513
+#: vc_templates/shortcode/vc_fl_icon_single.php:253
+#: vc_templates/shortcode/vc_fl_icon_single.php:267
+#: vc_templates/shortcode/vc_fl_icon_single.php:282
+#: vc_templates/shortcode/vc_fl_icon_single.php:297
+#: vc_templates/shortcode/vc_fl_icon_single.php:312
+#: vc_templates/shortcode/vc_fl_icon_single.php:327
+#: vc_templates/shortcode/vc_fl_icon_single.php:342
+#: vc_templates/shortcode/vc_fl_icon_single.php:357
+#: vc_templates/shortcode/vc_fl_icon_single.php:372
+#: vc_templates/shortcode/vc_fl_icon_single.php:387
+#: vc_templates/shortcode/vc_fl_icon_single.php:402
+#: vc_templates/shortcode/vc_fl_list_row.php:228
+#: vc_templates/shortcode/vc_fl_list_row.php:242
+#: vc_templates/shortcode/vc_fl_list_row.php:257
+#: vc_templates/shortcode/vc_fl_list_row.php:272
+#: vc_templates/shortcode/vc_fl_list_row.php:287
+#: vc_templates/shortcode/vc_fl_list_row.php:302
+#: vc_templates/shortcode/vc_fl_list_row.php:317
+#: vc_templates/shortcode/vc_fl_list_row.php:332
+#: vc_templates/shortcode/vc_fl_list_row.php:347
+#: vc_templates/shortcode/vc_fl_list_row.php:362
+#: vc_templates/shortcode/vc_fl_list_row.php:377
+#: vc_templates/shortcode/vc_fl_pricing_table.php:327
+#: vc_templates/shortcode/vc_fl_pricing_table.php:341
+#: vc_templates/shortcode/vc_fl_pricing_table.php:356
+#: vc_templates/shortcode/vc_fl_pricing_table.php:371
+#: vc_templates/shortcode/vc_fl_pricing_table.php:386
+#: vc_templates/shortcode/vc_fl_pricing_table.php:401
+#: vc_templates/shortcode/vc_fl_pricing_table.php:416
+#: vc_templates/shortcode/vc_fl_pricing_table.php:431
+#: vc_templates/shortcode/vc_fl_pricing_table.php:446
+#: vc_templates/shortcode/vc_fl_pricing_table.php:461
+#: vc_templates/shortcode/vc_fl_pricing_table.php:476
+#: vc_templates/shortcode/vc_fl_separator.php:423
+#: vc_templates/shortcode/vc_fl_separator.php:437
+#: vc_templates/shortcode/vc_fl_separator.php:452
+#: vc_templates/shortcode/vc_fl_separator.php:467
+#: vc_templates/shortcode/vc_fl_separator.php:482
+#: vc_templates/shortcode/vc_fl_separator.php:497
+#: vc_templates/shortcode/vc_fl_separator.php:512
+#: vc_templates/shortcode/vc_fl_separator.php:527
+#: vc_templates/shortcode/vc_fl_separator.php:542
+#: vc_templates/shortcode/vc_fl_separator.php:557
+#: vc_templates/shortcode/vc_fl_separator.php:572
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:417
+#: vc_templates/shortcode/vc_fl_video_box.php:192
+msgid "Icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:141
+msgid "Alert close icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_alert.php:144
+#: vc_templates/shortcode/vc_fl_banners.php:240
+#: vc_templates/shortcode/vc_fl_banners.php:392
+#: vc_templates/shortcode/vc_fl_blog.php:771
+#: vc_templates/shortcode/vc_fl_button.php:322
+#: vc_templates/shortcode/vc_fl_button.php:370
+#: vc_templates/shortcode/vc_fl_counters.php:390
+#: vc_templates/shortcode/vc_fl_gallery.php:318
+#: vc_templates/shortcode/vc_fl_icon_box.php:344
+#: vc_templates/shortcode/vc_fl_icon_box.php:570
+#: vc_templates/shortcode/vc_fl_icon_single.php:234
+#: vc_templates/shortcode/vc_fl_icon_single.php:496
+#: vc_templates/shortcode/vc_fl_image_single.php:148
+#: vc_templates/shortcode/vc_fl_image_slider.php:196
+#: vc_templates/shortcode/vc_fl_list_row.php:204
+#: vc_templates/shortcode/vc_fl_pricing_table.php:303
+#: vc_templates/shortcode/vc_fl_pricing_table.php:528
+#: vc_templates/shortcode/vc_fl_pricing_table.php:542
+#: vc_templates/shortcode/vc_fl_separator.php:399
+#: vc_templates/shortcode/vc_fl_share.php:280
+#: vc_templates/shortcode/vc_fl_share.php:293
+#: vc_templates/shortcode/vc_fl_social_link.php:342
+#: vc_templates/shortcode/vc_fl_social_link.php:355
+#: vc_templates/shortcode/vc_fl_team.php:306
+#: vc_templates/shortcode/vc_fl_works.php:649
+#: vc_templates/shortcode/vc_fl_works.php:782
+#: vc_templates/shortcode/vc_fl_works.php:919
+msgid "None"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:195
+msgid "Banners"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:204
+#: vc_templates/shortcode/vc_fl_gallery.php:234
+#: vc_templates/shortcode/vc_fl_image_single.php:130
+#: vc_templates/shortcode/vc_fl_image_slider.php:178
+#: vc_templates/shortcode/vc_fl_partner_row.php:89
+#: vc_templates/shortcode/vc_fl_team.php:246
+#: vc_templates/shortcode/vc_fl_video_box.php:228
+msgid "Select Images"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:210
+#: vc_templates/shortcode/vc_fl_pricing_table.php:261
+#: vc_templates/shortcode/vc_fl_progress_bar.php:259
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:82
+#: vc_templates/shortcode/vc_fl_time_line_slider_row.php:80
+#: vc_templates/shortcode/vc_fl_title.php:107
+#: vc_templates/shortcode/vc_fl_title.php:127
+#: vc_templates/shortcode/vc_fl_work_info_row.php:108
+msgid "Title"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:217
+msgid "Text content"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:224
+msgid "Banner Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:227
+#: vc_templates/shortcode/vc_fl_gallery.php:260
+#: vc_templates/shortcode/vc_fl_image_slider.php:171
+#: vc_templates/shortcode/vc_fl_list_row.php:142
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:145
+msgid "Two"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:228
+#: vc_templates/shortcode/vc_fl_image_slider.php:172
+#: vc_templates/shortcode/vc_fl_list_row.php:143
+#: vc_templates/shortcode/vc_fl_partner_slider.php:101
+msgid "Three"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:236
+#: vc_templates/shortcode/vc_fl_gallery.php:314
+#: vc_templates/shortcode/vc_fl_image_single.php:144
+#: vc_templates/shortcode/vc_fl_image_slider.php:192
+#: vc_templates/shortcode/vc_fl_team.php:302
+msgid "Image effects"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:237
+#: vc_templates/shortcode/vc_fl_gallery.php:315
+#: vc_templates/shortcode/vc_fl_image_single.php:145
+#: vc_templates/shortcode/vc_fl_image_slider.php:193
+#: vc_templates/shortcode/vc_fl_team.php:303
+msgid "Select image hover effects."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:241
+#: vc_templates/shortcode/vc_fl_banners.php:393
+#: vc_templates/shortcode/vc_fl_blog.php:773
+#: vc_templates/shortcode/vc_fl_button.php:324
+#: vc_templates/shortcode/vc_fl_gallery.php:319
+#: vc_templates/shortcode/vc_fl_image_single.php:149
+#: vc_templates/shortcode/vc_fl_image_slider.php:197
+#: vc_templates/shortcode/vc_fl_pricing_table.php:530
+#: vc_templates/shortcode/vc_fl_team.php:307
+#: vc_templates/shortcode/vc_fl_works.php:784
+#: vc_templates/shortcode/vc_fl_works.php:920
+msgid "ZoomIn"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:242
+#: vc_templates/shortcode/vc_fl_banners.php:394
+#: vc_templates/shortcode/vc_fl_blog.php:772
+#: vc_templates/shortcode/vc_fl_button.php:323
+#: vc_templates/shortcode/vc_fl_gallery.php:320
+#: vc_templates/shortcode/vc_fl_image_single.php:150
+#: vc_templates/shortcode/vc_fl_image_slider.php:198
+#: vc_templates/shortcode/vc_fl_pricing_table.php:529
+#: vc_templates/shortcode/vc_fl_team.php:308
+#: vc_templates/shortcode/vc_fl_works.php:783
+#: vc_templates/shortcode/vc_fl_works.php:921
+msgid "ZoomOut"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:243
+#: vc_templates/shortcode/vc_fl_gallery.php:321
+#: vc_templates/shortcode/vc_fl_image_single.php:151
+#: vc_templates/shortcode/vc_fl_image_slider.php:199
+#: vc_templates/shortcode/vc_fl_team.php:309
+#: vc_templates/shortcode/vc_fl_works.php:922
+msgid "GrayScaleIn"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:244
+#: vc_templates/shortcode/vc_fl_gallery.php:322
+#: vc_templates/shortcode/vc_fl_image_single.php:152
+#: vc_templates/shortcode/vc_fl_image_slider.php:200
+#: vc_templates/shortcode/vc_fl_team.php:310
+#: vc_templates/shortcode/vc_fl_works.php:923
+msgid "GrayScaleOut"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:245
+#: vc_templates/shortcode/vc_fl_gallery.php:323
+#: vc_templates/shortcode/vc_fl_image_single.php:153
+#: vc_templates/shortcode/vc_fl_image_slider.php:201
+#: vc_templates/shortcode/vc_fl_team.php:311
+#: vc_templates/shortcode/vc_fl_works.php:924
+msgid "BrightnessIn"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:246
+#: vc_templates/shortcode/vc_fl_gallery.php:324
+#: vc_templates/shortcode/vc_fl_image_single.php:154
+#: vc_templates/shortcode/vc_fl_image_slider.php:202
+#: vc_templates/shortcode/vc_fl_team.php:312
+#: vc_templates/shortcode/vc_fl_works.php:925
+msgid "BrightnessOut"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:247
+#: vc_templates/shortcode/vc_fl_gallery.php:325
+#: vc_templates/shortcode/vc_fl_image_single.php:155
+#: vc_templates/shortcode/vc_fl_image_slider.php:203
+#: vc_templates/shortcode/vc_fl_team.php:313
+#: vc_templates/shortcode/vc_fl_works.php:926
+msgid "Blur"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:255
+#: vc_templates/shortcode/vc_fl_image_single.php:136
+#: vc_templates/shortcode/vc_fl_image_slider.php:184
+#: vc_templates/shortcode/vc_fl_partner_row.php:96
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:264
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:74
+#: vc_templates/shortcode/vc_fl_time_line_slider_row.php:72
+#: vc_templates/shortcode/vc_fl_video_box.php:241
+msgid "Images Size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:264
+msgid "Banner button"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:266
+#: vc_templates/shortcode/vc_fl_banners.php:406
+#: vc_templates/shortcode/vc_fl_blog.php:791
+#: vc_templates/shortcode/vc_fl_button.php:336
+#: vc_templates/shortcode/vc_fl_list_row.php:156
+#: vc_templates/shortcode/vc_fl_separator.php:268
+#: vc_templates/shortcode/vc_fl_share.php:176
+#: vc_templates/shortcode/vc_fl_share.php:210
+#: vc_templates/shortcode/vc_fl_share.php:220
+#: vc_templates/shortcode/vc_fl_share.php:230
+#: vc_templates/shortcode/vc_fl_share.php:240
+#: vc_templates/shortcode/vc_fl_share.php:250
+#: vc_templates/shortcode/vc_fl_share.php:260
+#: vc_templates/shortcode/vc_fl_share.php:270
+#: vc_templates/shortcode/vc_fl_social_link.php:181
+#: vc_templates/shortcode/vc_fl_team.php:323
+#: vc_templates/shortcode/vc_fl_team.php:439
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:276
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:338
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:391
+#: vc_templates/shortcode/vc_fl_title.php:201
+#: vc_templates/shortcode/vc_fl_works.php:802
+msgid "Enable"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:267
+#: vc_templates/shortcode/vc_fl_banners.php:405
+#: vc_templates/shortcode/vc_fl_blog.php:790
+#: vc_templates/shortcode/vc_fl_button.php:335
+#: vc_templates/shortcode/vc_fl_image_single.php:169
+#: vc_templates/shortcode/vc_fl_image_single.php:209
+#: vc_templates/shortcode/vc_fl_list_row.php:157
+#: vc_templates/shortcode/vc_fl_separator.php:269
+#: vc_templates/shortcode/vc_fl_share.php:175
+#: vc_templates/shortcode/vc_fl_social_link.php:180
+#: vc_templates/shortcode/vc_fl_team.php:322
+#: vc_templates/shortcode/vc_fl_team.php:352
+#: vc_templates/shortcode/vc_fl_team.php:438
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:277
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:339
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:392
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:402
+#: vc_templates/shortcode/vc_fl_title.php:202
+#: vc_templates/shortcode/vc_fl_works.php:801
+msgid "Disable"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:275
+#: vc_templates/shortcode/vc_fl_icon_box.php:268
+#: vc_templates/shortcode/vc_fl_title.php:143
+msgid "Title style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:277
+#: vc_templates/shortcode/vc_fl_counters.php:194
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:179
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:235
+msgid "H style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:278
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:180
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:236
+msgid "Standard text style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:286
+#: vc_templates/shortcode/vc_fl_title.php:209
+#: vc_templates/shortcode/vc_fl_work_info_row.php:143
+#: vc_templates/shortcode/vc_fl_works.php:593
+msgid "Title font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:295
+#: vc_templates/shortcode/vc_fl_icon_box.php:297
+#: vc_templates/shortcode/vc_fl_title.php:179
+msgid "Title margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:305
+#: vc_templates/shortcode/vc_fl_counters.php:378
+#: vc_templates/shortcode/vc_fl_icon_box.php:290
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:106
+#: vc_templates/shortcode/vc_fl_work_info_row.php:125
+#: vc_templates/shortcode/vc_fl_works.php:584
+msgid "Title color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:314
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:163
+#: vc_templates/shortcode/vc_fl_icon_box.php:318
+#: vc_templates/shortcode/vc_fl_work_info_row.php:168
+msgid "Content font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:323
+#: vc_templates/shortcode/vc_fl_list_row.php:171
+#: vc_templates/shortcode/vc_fl_work_info_row.php:134
+msgid "Content color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:333
+msgid "Content margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:342
+msgid "Button text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:351
+msgid "Button style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:353
+msgid "Background Button"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:354
+msgid "Border Button"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:362
+msgid "Button Link"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:368
+msgid "Banner button text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:378
+msgid "Banner button background or border color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:388
+#: vc_templates/shortcode/vc_fl_blog.php:767
+#: vc_templates/shortcode/vc_fl_button.php:318
+#: vc_templates/shortcode/vc_fl_pricing_table.php:523
+#: vc_templates/shortcode/vc_fl_works.php:778
+msgid "Button hover effects"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:389
+msgid ""
+"Select button hover effects. Attention: Full Width Button not working with "
+"MovingText effect!"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:395
+#: vc_templates/shortcode/vc_fl_blog.php:774
+#: vc_templates/shortcode/vc_fl_button.php:325
+#: vc_templates/shortcode/vc_fl_pricing_table.php:531
+#: vc_templates/shortcode/vc_fl_works.php:785
+msgid "MoveUP"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:396
+#: vc_templates/shortcode/vc_fl_blog.php:775
+#: vc_templates/shortcode/vc_fl_button.php:326
+#: vc_templates/shortcode/vc_fl_pricing_table.php:532
+#: vc_templates/shortcode/vc_fl_share.php:283
+#: vc_templates/shortcode/vc_fl_social_link.php:345
+#: vc_templates/shortcode/vc_fl_works.php:786
+msgid "Opacity"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:402
+#: vc_templates/shortcode/vc_fl_blog.php:786
+#: vc_templates/shortcode/vc_fl_button.php:332
+#: vc_templates/shortcode/vc_fl_pricing_table.php:538
+#: vc_templates/shortcode/vc_fl_works.php:797
+msgid "Button hover color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:412
+#: vc_templates/shortcode/vc_fl_blog.php:802
+#: vc_templates/shortcode/vc_fl_button.php:342
+#: vc_templates/shortcode/vc_fl_works.php:813
+msgid "Hover text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:425
+#: vc_templates/shortcode/vc_fl_button.php:355
+msgid "Hover Background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:438
+msgid "Banner button font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_banners.php:447
+msgid "Banner mask color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:59
+#: vc_templates/shortcode/vc_fl_blog.php:261
+#: vc_templates/shortcode/vc_fl_blog.php:269
+#: vc_templates/shortcode/vc_fl_works.php:66
+msgid "Load More"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:60
+msgid "No More Posts"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:61
+#: vc_templates/shortcode/vc_fl_works.php:68
+msgid "Loading..."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:184
+#: vc_templates/shortcode/vc_fl_works.php:179
+msgid "All"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:251
+msgid "Add some posts in Posts section"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:399
+msgid "Blog posts"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:408
+#: vc_templates/shortcode/vc_fl_works.php:356
+msgid "Items Count"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:409
+#: vc_templates/shortcode/vc_fl_works.php:357
+msgid "Specify the items count or insert '-1' to show all posts."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:419
+msgid "Blog post style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:428
+#: vc_templates/shortcode/vc_fl_works.php:376
+msgid "Select the Grid layout style."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:433
+#: vc_templates/shortcode/vc_fl_works.php:392
+msgid "Column"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:435
+#: vc_templates/shortcode/vc_fl_blog.php:464
+#: vc_templates/shortcode/vc_fl_blog.php:481
+#: vc_templates/shortcode/vc_fl_gallery.php:240
+#: vc_templates/shortcode/vc_fl_gallery.php:243
+#: vc_templates/shortcode/vc_fl_gallery.php:257
+#: vc_templates/shortcode/vc_fl_gallery.php:277
+#: vc_templates/shortcode/vc_fl_gallery.php:290
+#: vc_templates/shortcode/vc_fl_works.php:394
+#: vc_templates/shortcode/vc_fl_works.php:409
+#: vc_templates/shortcode/vc_fl_works.php:422
+msgid "Column Setting"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:446
+#: vc_templates/shortcode/vc_fl_blog.php:640
+#: vc_templates/shortcode/vc_fl_works.php:403
+#: vc_templates/shortcode/vc_fl_works.php:651
+msgid "Select how many columns to display posts."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:451
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:141
+msgid "Number of Words in Description"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:458
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:144
+msgid "Specify the Number of Words for Description blog per post."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:462
+#: vc_templates/shortcode/vc_fl_gallery.php:275
+#: vc_templates/shortcode/vc_fl_works.php:407
+msgid "Horizontal Gap "
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:475
+#: vc_templates/shortcode/vc_fl_gallery.php:284
+#: vc_templates/shortcode/vc_fl_works.php:416
+msgid "Horizontal gap between items."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:479
+#: vc_templates/shortcode/vc_fl_gallery.php:288
+#: vc_templates/shortcode/vc_fl_works.php:420
+msgid "Vertical Gap "
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:488
+#: vc_templates/shortcode/vc_fl_gallery.php:297
+#: vc_templates/shortcode/vc_fl_works.php:429
+msgid "Vertical gap between items."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:492
+#: vc_templates/shortcode/vc_fl_works.php:433
+msgid "Filter"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:495
+#: vc_templates/shortcode/vc_fl_blog.php:511
+#: vc_templates/shortcode/vc_fl_blog.php:523
+#: vc_templates/shortcode/vc_fl_blog.php:532
+#: vc_templates/shortcode/vc_fl_blog.php:541
+#: vc_templates/shortcode/vc_fl_blog.php:577
+#: vc_templates/shortcode/vc_fl_blog.php:584
+#: vc_templates/shortcode/vc_fl_blog.php:602
+#: vc_templates/shortcode/vc_fl_blog.php:616
+#: vc_templates/shortcode/vc_fl_works.php:436
+#: vc_templates/shortcode/vc_fl_works.php:452
+#: vc_templates/shortcode/vc_fl_works.php:464
+#: vc_templates/shortcode/vc_fl_works.php:473
+#: vc_templates/shortcode/vc_fl_works.php:482
+#: vc_templates/shortcode/vc_fl_works.php:518
+#: vc_templates/shortcode/vc_fl_works.php:525
+#: vc_templates/shortcode/vc_fl_works.php:543
+#: vc_templates/shortcode/vc_fl_works.php:557
+msgid "Filter Setting"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:503
+#: vc_templates/shortcode/vc_fl_works.php:444
+msgid "Filter Margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:515
+#: vc_templates/shortcode/vc_fl_works.php:456
+msgid "Filter Margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:527
+#: vc_templates/shortcode/vc_fl_works.php:468
+msgid "Filter color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:536
+#: vc_templates/shortcode/vc_fl_works.php:477
+msgid "Active filter color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:546
+#: vc_templates/shortcode/vc_fl_works.php:487
+msgid "Filter Animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:547
+#: vc_templates/shortcode/vc_fl_blog.php:890
+#: vc_templates/shortcode/vc_fl_gallery.php:332
+#: vc_templates/shortcode/vc_fl_works.php:488
+#: vc_templates/shortcode/vc_fl_works.php:875
+msgid "Animate the appearance of the following elements."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:551
+#: vc_templates/shortcode/vc_fl_works.php:492
+msgid "Slide Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:552
+#: vc_templates/shortcode/vc_fl_works.php:493
+msgid "Fade Out"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:553
+#: vc_templates/shortcode/vc_fl_works.php:494
+msgid "Quick Sand"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:554
+#: vc_templates/shortcode/vc_fl_works.php:495
+msgid "Fade Out Top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:555
+#: vc_templates/shortcode/vc_fl_blog.php:898
+#: vc_templates/shortcode/vc_fl_gallery.php:341
+#: vc_templates/shortcode/vc_fl_works.php:496
+#: vc_templates/shortcode/vc_fl_works.php:883
+msgid "Sequentially"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:556
+#: vc_templates/shortcode/vc_fl_works.php:497
+msgid "Skew"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:557
+#: vc_templates/shortcode/vc_fl_works.php:498
+msgid "Bounce Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:558
+#: vc_templates/shortcode/vc_fl_works.php:499
+msgid "Bounce Top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:559
+#: vc_templates/shortcode/vc_fl_works.php:500
+msgid "Bounce Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:560
+#: vc_templates/shortcode/vc_fl_works.php:501
+msgid "Move Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:561
+#: vc_templates/shortcode/vc_fl_works.php:502
+msgid "Scale Sides"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:562
+#: vc_templates/shortcode/vc_fl_works.php:503
+msgid "Front Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:563
+#: vc_templates/shortcode/vc_fl_works.php:504
+msgid "3D Flip"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:564
+#: vc_templates/shortcode/vc_fl_works.php:505
+msgid "Rotate Sides"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:565
+#: vc_templates/shortcode/vc_fl_works.php:506
+msgid "Flip Out Delay"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:566
+#: vc_templates/shortcode/vc_fl_works.php:507
+msgid "Flip Out"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:567
+#: vc_templates/shortcode/vc_fl_works.php:508
+msgid "Unfold"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:568
+#: vc_templates/shortcode/vc_fl_works.php:509
+msgid "Fold Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:569
+#: vc_templates/shortcode/vc_fl_works.php:510
+msgid "Scale Down"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:570
+#: vc_templates/shortcode/vc_fl_works.php:511
+msgid "Flip Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:571
+#: vc_templates/shortcode/vc_fl_works.php:512
+msgid "Rotate Room"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:581
+#: vc_templates/shortcode/vc_fl_works.php:522
+msgid "Select filter style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:598
+#: vc_templates/shortcode/vc_fl_works.php:539
+msgid "Filter counter"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:614
+#: vc_templates/shortcode/vc_fl_works.php:555
+msgid "Counter animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:631
+#: vc_templates/shortcode/vc_fl_works.php:642
+msgid "Pagination on page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:633
+#: vc_templates/shortcode/vc_fl_blog.php:656
+#: vc_templates/shortcode/vc_fl_blog.php:668
+#: vc_templates/shortcode/vc_fl_blog.php:684
+#: vc_templates/shortcode/vc_fl_blog.php:697
+#: vc_templates/shortcode/vc_fl_blog.php:710
+#: vc_templates/shortcode/vc_fl_blog.php:723
+#: vc_templates/shortcode/vc_fl_blog.php:739
+#: vc_templates/shortcode/vc_fl_blog.php:758
+#: vc_templates/shortcode/vc_fl_blog.php:777
+#: vc_templates/shortcode/vc_fl_blog.php:793
+#: vc_templates/shortcode/vc_fl_blog.php:811
+#: vc_templates/shortcode/vc_fl_blog.php:824
+#: vc_templates/shortcode/vc_fl_blog.php:841
+#: vc_templates/shortcode/vc_fl_blog.php:859
+#: vc_templates/shortcode/vc_fl_blog.php:872
+#: vc_templates/shortcode/vc_fl_blog.php:885
+#: vc_templates/shortcode/vc_fl_works.php:644
+#: vc_templates/shortcode/vc_fl_works.php:667
+#: vc_templates/shortcode/vc_fl_works.php:679
+#: vc_templates/shortcode/vc_fl_works.php:695
+#: vc_templates/shortcode/vc_fl_works.php:708
+#: vc_templates/shortcode/vc_fl_works.php:721
+#: vc_templates/shortcode/vc_fl_works.php:734
+#: vc_templates/shortcode/vc_fl_works.php:750
+#: vc_templates/shortcode/vc_fl_works.php:769
+#: vc_templates/shortcode/vc_fl_works.php:788
+#: vc_templates/shortcode/vc_fl_works.php:804
+#: vc_templates/shortcode/vc_fl_works.php:822
+#: vc_templates/shortcode/vc_fl_works.php:835
+#: vc_templates/shortcode/vc_fl_works.php:852
+#: vc_templates/shortcode/vc_fl_works.php:870
+msgid "Pagination"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:636
+#: vc_templates/shortcode/vc_fl_works.php:647
+msgid "Load More Button"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:637
+#: vc_templates/shortcode/vc_fl_image_slider.php:314
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:222
+#: vc_templates/shortcode/vc_fl_works.php:648
+msgid "Infinite Scroll"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:638
+msgid "Standard"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:644
+#: vc_templates/shortcode/vc_fl_button.php:254
+#: vc_templates/shortcode/vc_fl_works.php:655
+msgid "Button Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:645
+#: vc_templates/shortcode/vc_fl_button.php:255
+#: vc_templates/shortcode/vc_fl_works.php:656
+msgid "Select button style."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:650
+#: vc_templates/shortcode/vc_fl_button.php:260
+#: vc_templates/shortcode/vc_fl_drops_caps.php:134
+#: vc_templates/shortcode/vc_fl_share.php:126
+#: vc_templates/shortcode/vc_fl_social_link.php:131
+#: vc_templates/shortcode/vc_fl_works.php:661
+msgid "Border"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:660
+#: vc_templates/shortcode/vc_fl_works.php:671
+msgid "Button Margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:676
+#: vc_templates/shortcode/vc_fl_works.php:687
+msgid "Button Margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:692
+#: vc_templates/shortcode/vc_fl_works.php:703
+msgid "Button background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:705
+#: vc_templates/shortcode/vc_fl_works.php:716
+msgid "Button border color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:718
+#: vc_templates/shortcode/vc_fl_pricing_table.php:507
+#: vc_templates/shortcode/vc_fl_works.php:729
+msgid "Button text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:731
+#: vc_templates/shortcode/vc_fl_works.php:742
+msgid "Button border wight"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:749
+#: vc_templates/shortcode/vc_fl_button.php:305
+#: vc_templates/shortcode/vc_fl_works.php:760
+msgid "Shape"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:750
+#: vc_templates/shortcode/vc_fl_button.php:306
+#: vc_templates/shortcode/vc_fl_works.php:761
+msgid "Select button shape."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:754
+#: vc_templates/shortcode/vc_fl_button.php:310
+#: vc_templates/shortcode/vc_fl_drops_caps.php:146
+#: vc_templates/shortcode/vc_fl_icon_box.php:556
+#: vc_templates/shortcode/vc_fl_icon_single.php:482
+#: vc_templates/shortcode/vc_fl_share.php:124
+#: vc_templates/shortcode/vc_fl_social_link.php:129
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:158
+#: vc_templates/shortcode/vc_fl_works.php:765
+msgid "Rounded"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:755
+#: vc_templates/shortcode/vc_fl_button.php:311
+#: vc_templates/shortcode/vc_fl_drops_caps.php:144
+#: vc_templates/shortcode/vc_fl_icon_box.php:557
+#: vc_templates/shortcode/vc_fl_icon_single.php:483
+#: vc_templates/shortcode/vc_fl_share.php:125
+#: vc_templates/shortcode/vc_fl_share.php:135
+#: vc_templates/shortcode/vc_fl_social_link.php:130
+#: vc_templates/shortcode/vc_fl_social_link.php:140
+#: vc_templates/shortcode/vc_fl_team.php:465
+#: vc_templates/shortcode/vc_fl_works.php:766
+msgid "Square"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:756
+#: vc_templates/shortcode/vc_fl_button.php:312
+#: vc_templates/shortcode/vc_fl_drops_caps.php:145
+#: vc_templates/shortcode/vc_fl_icon_box.php:555
+#: vc_templates/shortcode/vc_fl_icon_single.php:481
+#: vc_templates/shortcode/vc_fl_share.php:123
+#: vc_templates/shortcode/vc_fl_share.php:136
+#: vc_templates/shortcode/vc_fl_social_link.php:128
+#: vc_templates/shortcode/vc_fl_social_link.php:141
+#: vc_templates/shortcode/vc_fl_team.php:466
+#: vc_templates/shortcode/vc_fl_works.php:767
+msgid "Round"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:768
+#: vc_templates/shortcode/vc_fl_button.php:319
+#: vc_templates/shortcode/vc_fl_pricing_table.php:524
+#: vc_templates/shortcode/vc_fl_works.php:779
+msgid "Select button hover effects."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:815
+#: vc_templates/shortcode/vc_fl_works.php:826
+msgid "Hover background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:828
+#: vc_templates/shortcode/vc_fl_button.php:188
+#: vc_templates/shortcode/vc_fl_works.php:839
+msgid "Button width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:830
+#: vc_templates/shortcode/vc_fl_button.php:190
+#: vc_templates/shortcode/vc_fl_works.php:841
+msgid "Select button width: Normal or Full Width."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:834
+#: vc_templates/shortcode/vc_fl_button.php:193
+#: vc_templates/shortcode/vc_fl_icon_box.php:600
+#: vc_templates/shortcode/vc_fl_icon_single.php:526
+#: vc_templates/shortcode/vc_fl_progress_bar.php:238
+#: vc_templates/shortcode/vc_fl_video_box.php:179
+#: vc_templates/shortcode/vc_fl_video_box.php:220
+#: vc_templates/shortcode/vc_fl_works.php:845
+msgid "Normal"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:835
+#: vc_templates/shortcode/vc_fl_button.php:194
+#: vc_templates/shortcode/vc_fl_works.php:846
+msgid "Full Width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:845
+#: vc_templates/shortcode/vc_fl_button.php:232
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:132
+#: vc_templates/shortcode/vc_fl_pie.php:94
+#: vc_templates/shortcode/vc_fl_works.php:856
+msgid "Size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:847
+#: vc_templates/shortcode/vc_fl_button.php:234
+#: vc_templates/shortcode/vc_fl_works.php:858
+msgid "Select button display size."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:851
+#: vc_templates/shortcode/vc_fl_button.php:237
+#: vc_templates/shortcode/vc_fl_works.php:862
+msgid "S"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:852
+#: vc_templates/shortcode/vc_fl_button.php:238
+#: vc_templates/shortcode/vc_fl_works.php:863
+msgid "M"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:853
+#: vc_templates/shortcode/vc_fl_button.php:239
+#: vc_templates/shortcode/vc_fl_works.php:864
+msgid "L"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:863
+msgid "Hover and active text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:876
+msgid "Hover and active background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:889
+#: vc_templates/shortcode/vc_fl_gallery.php:331
+#: vc_templates/shortcode/vc_fl_works.php:874
+msgid "Display Type"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:895
+#: vc_templates/shortcode/vc_fl_gallery.php:338
+#: vc_templates/shortcode/vc_fl_works.php:880
+msgid "Bottom to Top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:896
+#: vc_templates/shortcode/vc_fl_gallery.php:339
+#: vc_templates/shortcode/vc_fl_works.php:881
+msgid "Fade In Top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:897
+#: vc_templates/shortcode/vc_fl_gallery.php:340
+#: vc_templates/shortcode/vc_fl_works.php:882
+msgid "Fade In"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:900
+#: vc_templates/shortcode/vc_fl_blog.php:913
+#: vc_templates/shortcode/vc_fl_works.php:885
+#: vc_templates/shortcode/vc_fl_works.php:897
+#: vc_templates/shortcode/vc_fl_works.php:910
+#: vc_templates/shortcode/vc_fl_works.php:928
+#: vc_templates/shortcode/vc_fl_works.php:937
+msgid "Style Setting"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:904
+#: vc_templates/shortcode/vc_fl_gallery.php:347
+#: vc_templates/shortcode/vc_fl_works.php:889
+msgid "Display Type Speed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog.php:905
+#: vc_templates/shortcode/vc_fl_gallery.php:348
+msgid "Default speed 150ms."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:111
+msgid "Blog home page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:120
+msgid "Blog column"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:130
+msgid "Image Margin Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:148
+msgid "Blog Header size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:164
+msgid "Enter text font size (Number + px).Example:14px."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:172
+msgid "Header text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:180
+msgid "Header Margin Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_blog_home_page.php:191
+msgid "Content text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:178
+msgid "Button"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:199
+#: vc_templates/shortcode/vc_fl_title.php:116
+msgid "Text align"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:201
+msgid "Select button text align."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:216
+#: vc_templates/shortcode/vc_fl_counters.php:195
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:58
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:89
+msgid "Text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:218
+msgid "Text on the button"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:223
+#: vc_templates/shortcode/vc_fl_image_single.php:226
+#: vc_templates/shortcode/vc_fl_image_single.php:233
+#: vc_templates/shortcode/vc_fl_partner_row.php:109
+#: vc_templates/shortcode/vc_fl_partner_row.php:115
+#: vc_templates/shortcode/vc_fl_pricing_table.php:500
+#: vc_templates/shortcode/vc_fl_team.php:333
+msgid "Link"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:246
+msgid "Select Text color for your element."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:280
+#: vc_templates/shortcode/vc_fl_list_row.php:189
+msgid "Border color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:292
+msgid "Border size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:293
+msgid "Insert border size number and + px. Example:1px."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:368
+#: vc_templates/shortcode/vc_fl_counters.php:388
+#: vc_templates/shortcode/vc_fl_icon_box.php:342
+#: vc_templates/shortcode/vc_fl_icon_single.php:232
+#: vc_templates/shortcode/vc_fl_list_row.php:202
+#: vc_templates/shortcode/vc_fl_pricing_table.php:301
+#: vc_templates/shortcode/vc_fl_separator.php:397
+msgid "Icon library"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:371
+#: vc_templates/shortcode/vc_fl_counters.php:391
+#: vc_templates/shortcode/vc_fl_icon_box.php:345
+#: vc_templates/shortcode/vc_fl_icon_single.php:235
+#: vc_templates/shortcode/vc_fl_list_row.php:205
+#: vc_templates/shortcode/vc_fl_pricing_table.php:304
+#: vc_templates/shortcode/vc_fl_separator.php:400
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:372
+#: vc_templates/shortcode/vc_fl_counters.php:392
+#: vc_templates/shortcode/vc_fl_icon_box.php:346
+#: vc_templates/shortcode/vc_fl_icon_single.php:236
+#: vc_templates/shortcode/vc_fl_list_row.php:206
+#: vc_templates/shortcode/vc_fl_pricing_table.php:305
+#: vc_templates/shortcode/vc_fl_separator.php:401
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:373
+#: vc_templates/shortcode/vc_fl_counters.php:393
+#: vc_templates/shortcode/vc_fl_icon_box.php:347
+#: vc_templates/shortcode/vc_fl_icon_single.php:237
+#: vc_templates/shortcode/vc_fl_list_row.php:207
+#: vc_templates/shortcode/vc_fl_pricing_table.php:306
+#: vc_templates/shortcode/vc_fl_separator.php:402
+msgid "Typicons"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:374
+#: vc_templates/shortcode/vc_fl_counters.php:394
+#: vc_templates/shortcode/vc_fl_icon_box.php:348
+#: vc_templates/shortcode/vc_fl_icon_single.php:238
+#: vc_templates/shortcode/vc_fl_list_row.php:208
+#: vc_templates/shortcode/vc_fl_pricing_table.php:307
+#: vc_templates/shortcode/vc_fl_separator.php:403
+msgid "Entypo"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:375
+#: vc_templates/shortcode/vc_fl_counters.php:395
+#: vc_templates/shortcode/vc_fl_icon_box.php:349
+#: vc_templates/shortcode/vc_fl_icon_single.php:239
+#: vc_templates/shortcode/vc_fl_list_row.php:209
+#: vc_templates/shortcode/vc_fl_pricing_table.php:308
+#: vc_templates/shortcode/vc_fl_separator.php:404
+msgid "Linecons"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:376
+#: vc_templates/shortcode/vc_fl_counters.php:396
+#: vc_templates/shortcode/vc_fl_icon_box.php:350
+#: vc_templates/shortcode/vc_fl_icon_single.php:240
+#: vc_templates/shortcode/vc_fl_list_row.php:210
+#: vc_templates/shortcode/vc_fl_pricing_table.php:309
+#: vc_templates/shortcode/vc_fl_separator.php:405
+msgid "Etline"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:377
+#: vc_templates/shortcode/vc_fl_counters.php:397
+#: vc_templates/shortcode/vc_fl_icon_box.php:351
+#: vc_templates/shortcode/vc_fl_icon_single.php:241
+#: vc_templates/shortcode/vc_fl_list_row.php:211
+#: vc_templates/shortcode/vc_fl_pricing_table.php:310
+#: vc_templates/shortcode/vc_fl_separator.php:406
+msgid "Iconmoon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:378
+#: vc_templates/shortcode/vc_fl_counters.php:398
+#: vc_templates/shortcode/vc_fl_icon_box.php:352
+#: vc_templates/shortcode/vc_fl_icon_single.php:242
+#: vc_templates/shortcode/vc_fl_list_row.php:212
+#: vc_templates/shortcode/vc_fl_pricing_table.php:311
+#: vc_templates/shortcode/vc_fl_separator.php:407
+msgid "Linearicons"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:379
+#: vc_templates/shortcode/vc_fl_counters.php:399
+#: vc_templates/shortcode/vc_fl_icon_box.php:353
+#: vc_templates/shortcode/vc_fl_icon_single.php:243
+#: vc_templates/shortcode/vc_fl_list_row.php:213
+#: vc_templates/shortcode/vc_fl_pricing_table.php:312
+#: vc_templates/shortcode/vc_fl_separator.php:408
+msgid "Elusive"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:380
+#: vc_templates/shortcode/vc_fl_icon_box.php:354
+#: vc_templates/shortcode/vc_fl_icon_single.php:244
+#: vc_templates/shortcode/vc_fl_list_row.php:214
+#: vc_templates/shortcode/vc_fl_pricing_table.php:313
+#: vc_templates/shortcode/vc_fl_separator.php:409
+msgid "Iconic"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:381
+#: vc_templates/shortcode/vc_fl_icon_box.php:355
+#: vc_templates/shortcode/vc_fl_icon_single.php:245
+#: vc_templates/shortcode/vc_fl_list_row.php:215
+#: vc_templates/shortcode/vc_fl_pricing_table.php:314
+#: vc_templates/shortcode/vc_fl_separator.php:410
+msgid "Fl"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_button.php:384
+#: vc_templates/shortcode/vc_fl_counters.php:404
+#: vc_templates/shortcode/vc_fl_icon_box.php:359
+#: vc_templates/shortcode/vc_fl_icon_single.php:248
+#: vc_templates/shortcode/vc_fl_list_row.php:223
+#: vc_templates/shortcode/vc_fl_pricing_table.php:322
+#: vc_templates/shortcode/vc_fl_separator.php:414
+msgid "Select icon library"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:171
+msgid "Counters"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:180
+msgid "Counter Box Text align"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:191
+msgid "Counter text style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:203
+msgid "Count Font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:215
+#: vc_templates/shortcode/vc_fl_counters.php:228
+msgid "Animation duration"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:223
+msgid "Standard 2000ms."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:235
+msgid "Standard 5."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:239
+msgid "Preffix"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:242
+msgid "Enter the preffix for rotate. Use: %, #, ^,& etc."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:248
+msgid "Count"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:258
+#: vc_templates/shortcode/vc_fl_pie.php:230
+msgid "Suffix"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:262
+#: vc_templates/shortcode/vc_fl_pie.php:234
+msgid "Enter the suffix for rotate. Use: %, #, ^,& etc."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:268
+msgid "Counter Margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:280
+msgid "Counter Margin Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:292
+msgid "Count color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:307
+msgid "Title text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:316
+msgid "Title position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:320
+msgid "Before counter"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:321
+msgid "By counter"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:325
+msgid "Select title position."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:329
+msgid "Title size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:347
+#: vc_templates/shortcode/vc_fl_counters.php:365
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:400
+msgid "Fl Icons"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:401
+msgid "iconic Icons"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:574
+msgid "Icon font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_counters.php:586
+#: vc_templates/shortcode/vc_fl_icon_box.php:528
+#: vc_templates/shortcode/vc_fl_icon_single.php:417
+#: vc_templates/shortcode/vc_fl_separator.php:587
+#: vc_templates/shortcode/vc_fl_share.php:186
+#: vc_templates/shortcode/vc_fl_social_link.php:191
+#: vc_templates/shortcode/vc_fl_team.php:476
+#: vc_templates/shortcode/vc_fl_video_box.php:207
+msgid "Icon color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:49
+msgid "Custom text block"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:63
+msgid "Enter your text."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:68
+#: vc_templates/shortcode/vc_fl_team.php:384
+#: vc_templates/shortcode/vc_fl_team.php:413
+msgid "Font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_custom_text_block.php:69
+msgid "Enter text font size (Number + px).Example:14px"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:101
+msgid "Drops caps"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:112
+msgid "Letter"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:117
+msgid "Font family"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:121
+msgid "H Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:122
+msgid "Text style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:128
+msgid "Style Background"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:132
+msgid "Without Background"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:141
+msgid "Rounding Background"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:154
+msgid "Letter Background Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:162
+msgid "Letter Font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:175
+msgid "Letter Width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:189
+msgid "Letter Margin Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:202
+msgid "Letter Margin Top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:215
+msgid "Letter Margin Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:228
+msgid "Letter Margin Right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_drops_caps.php:243
+msgid "Letter color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:105
+msgid "Functional text box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:121
+msgid "Text Box Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:123
+#: vc_templates/shortcode/vc_fl_image_slider.php:254
+#: vc_templates/shortcode/vc_fl_list_row.php:141
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:185
+msgid "Style Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:124
+#: vc_templates/shortcode/vc_fl_pricing_table.php:250
+#: vc_templates/shortcode/vc_fl_team.php:354
+msgid "Style Two"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:134
+msgid "Ultra Small"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:135
+#: vc_templates/shortcode/vc_fl_icon_box.php:599
+#: vc_templates/shortcode/vc_fl_icon_single.php:525
+#: vc_templates/shortcode/vc_fl_team.php:491
+#: vc_templates/shortcode/vc_fl_video_box.php:219
+msgid "Small"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:136
+#: vc_templates/shortcode/vc_fl_icon_box.php:601
+#: vc_templates/shortcode/vc_fl_icon_single.php:527
+#: vc_templates/shortcode/vc_fl_separator.php:324
+#: vc_templates/shortcode/vc_fl_team.php:492
+msgid "Medium"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:137
+#: vc_templates/shortcode/vc_fl_icon_box.php:602
+#: vc_templates/shortcode/vc_fl_icon_single.php:528
+#: vc_templates/shortcode/vc_fl_progress_bar.php:241
+#: vc_templates/shortcode/vc_fl_separator.php:325
+#: vc_templates/shortcode/vc_fl_video_box.php:221
+msgid "Large"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:169
+msgid "First Title Text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:172
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:228
+msgid "Enter your Text."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:177
+msgid "First Title style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:196
+msgid "First Title font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:209
+msgid "First title Margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:225
+msgid "Second Title Text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:233
+msgid "Second Title style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:252
+msgid "Second Title font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_functional_text_box.php:261
+msgid "Second Title line height"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:211
+msgid "Gallery Image"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:220
+msgid "Image Grid Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:229
+msgid "Select the Gallery layout style."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:245
+msgid "One Column"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:246
+msgid "Two Column"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:247
+msgid "Three Column"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:248
+msgid "Four Column"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:254
+msgid "Masonry Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:259
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:146
+msgid "One"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:301
+msgid "Images Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gallery.php:306
+msgid "Light box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:76
+msgid "Gif"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:85
+msgid "Select GIF "
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:91
+msgid "Static Image"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:97
+msgid "Play Type"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:101
+msgid "Default Autoplay"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:102
+msgid "Mouse Over Play"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_gif.php:103
+msgid "On Click Play"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:121
+msgid "Google Map"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:131
+msgid "Address"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:138
+msgid "API Key"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:145
+msgid "Map Zoom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:175
+msgid "Map Height (px)"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:183
+msgid "Map Marker"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:191
+msgid "Scrollwheel Zoom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:194
+#: vc_templates/shortcode/vc_fl_image_slider.php:238
+#: vc_templates/shortcode/vc_fl_image_slider.php:316
+#: vc_templates/shortcode/vc_fl_image_slider.php:327
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:168
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:224
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:235
+msgid "True"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:195
+#: vc_templates/shortcode/vc_fl_image_slider.php:213
+#: vc_templates/shortcode/vc_fl_image_slider.php:239
+#: vc_templates/shortcode/vc_fl_image_slider.php:317
+#: vc_templates/shortcode/vc_fl_image_slider.php:328
+#: vc_templates/shortcode/vc_fl_partner_slider.php:123
+#: vc_templates/shortcode/vc_fl_partner_slider.php:135
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:169
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:225
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:236
+msgid "False"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:202
+msgid "Map style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:213
+#: vc_templates/shortcode/vc_fl_list_row.php:137
+#: vc_templates/shortcode/vc_fl_work_info_row.php:98
+msgid "Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:216
+msgid "Light coloured"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:217
+msgid "Ultra Light"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:218
+msgid "Light"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:219
+msgid "Light Blue"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:220
+msgid "Grey Blue"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:221
+msgid "Flat"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:222
+msgid "Pastel"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:223
+msgid "Green"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:224
+msgid "Blue"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:225
+msgid "Pale Dawn"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:226
+msgid "Dark"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_google_map.php:227
+msgid "Dark 2"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:236
+msgid "Icon Box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:245
+msgid "Icon position in box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:248
+msgid "Top Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:249
+#: vc_templates/shortcode/vc_fl_team.php:289
+msgid "Bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:257
+msgid "Content text position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:260
+#: vc_templates/shortcode/vc_fl_icon_box.php:655
+msgid "Center Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:271
+msgid "Default H4"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:272
+#: vc_templates/shortcode/vc_fl_title.php:147
+msgid "H1"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:273
+#: vc_templates/shortcode/vc_fl_title.php:148
+msgid "H2"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:274
+#: vc_templates/shortcode/vc_fl_title.php:149
+msgid "H3"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:275
+#: vc_templates/shortcode/vc_fl_title.php:150
+msgid "H5"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:276
+#: vc_templates/shortcode/vc_fl_title.php:151
+msgid "H6"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:277
+#: vc_templates/shortcode/vc_fl_title.php:152
+msgid "p"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:283
+msgid "Title Text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:304
+#: vc_templates/shortcode/vc_fl_title.php:169
+msgid "Title margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:311
+msgid "Icon box content"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:326
+msgid "Content line height"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:335
+msgid "Text content color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:537
+#: vc_templates/shortcode/vc_fl_icon_single.php:426
+#: vc_templates/shortcode/vc_fl_share.php:306
+#: vc_templates/shortcode/vc_fl_social_link.php:368
+msgid "Icon hover color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:550
+#: vc_templates/shortcode/vc_fl_icon_single.php:476
+#: vc_templates/shortcode/vc_fl_share.php:119
+#: vc_templates/shortcode/vc_fl_social_link.php:124
+msgid "Icon style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:563
+#: vc_templates/shortcode/vc_fl_icon_single.php:489
+msgid "Icon border style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:571
+#: vc_templates/shortcode/vc_fl_icon_single.php:497
+msgid "Border Solid"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:572
+#: vc_templates/shortcode/vc_fl_icon_single.php:498
+msgid "Border Dashed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:579
+#: vc_templates/shortcode/vc_fl_icon_box.php:591
+#: vc_templates/shortcode/vc_fl_icon_single.php:517
+#: vc_templates/shortcode/vc_fl_separator.php:599
+#: vc_templates/shortcode/vc_fl_video_box.php:215
+msgid "Icon size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:598
+#: vc_templates/shortcode/vc_fl_icon_single.php:524
+msgid "Ultra small"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:609
+#: vc_templates/shortcode/vc_fl_icon_single.php:452
+#: vc_templates/shortcode/vc_fl_team.php:450
+msgid "Icon background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:623
+#: vc_templates/shortcode/vc_fl_icon_single.php:464
+#: vc_templates/shortcode/vc_fl_share.php:319
+#: vc_templates/shortcode/vc_fl_social_link.php:380
+msgid "Icon background hover color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:637
+msgid "Icon border color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:652
+msgid "Icon block position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:664
+msgid "Icon margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:673
+msgid "Icon margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:682
+msgid "Icon margin left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_box.php:691
+msgid "Icon margin right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:159
+msgid "Single Icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:168
+msgid "Full width icon box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:172
+msgid "Full width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:173
+msgid "Full width disable"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:181
+msgid "Icon position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:197
+msgid "Link for icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:200
+msgid "Enable link"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:201
+msgid "Disable link"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:210
+msgid "URL"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:219
+msgid "Target"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:222
+msgid "In this tab"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:223
+msgid "In new tab"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:439
+msgid "Icon Border color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_icon_single.php:505
+msgid "Icon size in px"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:122
+msgid "Image single"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:164
+msgid "Parallax in android device"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:168
+#: vc_templates/shortcode/vc_fl_image_single.php:208
+msgid "Default Enable"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:180
+msgid "Parallax speed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:184
+msgid "Default 0.6"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:204
+msgid "Parallax in IOS device"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:220
+#: vc_templates/shortcode/vc_fl_partner_row.php:104
+msgid "Partner img style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:224
+#: vc_templates/shortcode/vc_fl_partner_row.php:108
+msgid "Default Standard"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:225
+msgid "Lightbox"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_single.php:227
+msgid "Parallax"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:157
+msgid "Image Slider"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:166
+msgid "Img on Page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:170
+msgid "One Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:212
+msgid "True Standard"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:219
+msgid "Arrow Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:227
+msgid "Arrow Style Standard"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:228
+msgid "Arrow Style Two"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:234
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:164
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:172
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:192
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:205
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:212
+msgid "Dots"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:246
+#: vc_templates/shortcode/vc_fl_image_slider.php:264
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:177
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:94
+msgid "Dots Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:255
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:186
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:98
+msgid "Style Jelly Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:256
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:187
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:99
+msgid "Style Fill In"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:257
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:188
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:100
+msgid "Style Scale"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:258
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:189
+msgid "Style Line"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:272
+msgid "Style Dots In Slider Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:273
+msgid "Style Dots Before Slider"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:289
+msgid "Arrow Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:296
+#: vc_templates/shortcode/vc_fl_image_slider.php:309
+msgid "Color setting"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:301
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:197
+msgid "Dots Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:320
+#: vc_templates/shortcode/vc_fl_image_slider.php:331
+#: vc_templates/shortcode/vc_fl_image_slider.php:338
+#: vc_templates/shortcode/vc_fl_image_slider.php:346
+#: vc_templates/shortcode/vc_fl_list_row.php:395
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:228
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:239
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:253
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:265
+msgid "Slider setting"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:325
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:233
+msgid "Auto play"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:336
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:244
+msgid "Auto play Speed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:339
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:254
+msgid "Standard Auto play speed 3000ms"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:344
+#: vc_templates/shortcode/vc_fl_list_row.php:393
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:258
+msgid "Slider Speed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_image_slider.php:347
+#: vc_templates/shortcode/vc_fl_list_row.php:396
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:266
+msgid "Standard Slider speed 900ms"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_row.php:128
+msgid "List Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_row.php:144
+#: vc_templates/shortcode/vc_fl_partner_block.php:57
+msgid "Four"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_row.php:145
+#: vc_templates/shortcode/vc_fl_partner_slider.php:102
+msgid "Five"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_row.php:146
+#: vc_templates/shortcode/vc_fl_partner_slider.php:103
+msgid "Six"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_row.php:163
+#: vc_templates/shortcode/vc_fl_pricing_row.php:46
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:323
+#: vc_templates/shortcode/vc_fl_time_line_slider_row.php:89
+#: vc_templates/shortcode/vc_fl_work_info_row.php:116
+msgid "Content"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_row.php:180
+msgid "Sufix color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_list_table.php:35
+msgid "List"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_block.php:39
+msgid "Partner Block"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_block.php:52
+msgid "Partner show on block"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_block.php:56
+msgid "Three Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_row.php:80
+msgid "Partner Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:83
+msgid "Partner slider"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:96
+msgid "Partner show on pages"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:100
+msgid "Four Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:109
+msgid "Slider speed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:118
+msgid "Infinite slider"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:122
+#: vc_templates/shortcode/vc_fl_partner_slider.php:134
+msgid "True Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:130
+msgid "Auto play slider"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_partner_slider.php:142
+msgid "Auto play speed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:76
+msgid "Pie Chart"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:86
+msgid "Rotate"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:90
+msgid "Select degree."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:98
+msgid "Enter the size of pie chart."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:102
+msgid "Line width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:105
+msgid "Enter the line width in between 0 to 100."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:109
+msgid "Line type"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:112
+msgid "square"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:113
+msgid "round"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:114
+msgid "butt"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:117
+msgid "Select linecap for the track."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:121
+msgid "Color type"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:124
+msgid "Simple Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:125
+msgid "Gradient Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:128
+msgid "Select color type for chart."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:132
+msgid "Line Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:136
+msgid "Select simple color to apply on chart."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:144
+msgid "Gradient color First"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:154
+msgid "Gradient color second"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:161
+msgid "Select Gradiant color to apply on chart."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:169
+msgid "Enable the track color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:177
+msgid "Track width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:180
+msgid "Enter the track width in between 0 to 100."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:189
+msgid "Track color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:192
+msgid "Select Track color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:204
+msgid "Enable the scale color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:211
+msgid "Scale color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:214
+msgid "Choose scale color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:223
+msgid "Prefix"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:226
+msgid "Enter the prefix for rotate. Use: %, #, ^,& etc."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:242
+msgid "Choose text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:246
+msgid "Text size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:259
+msgid "Select text size."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:263
+#: vc_templates/shortcode/vc_fl_progress_bar.php:227
+msgid "Duration"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:267
+msgid "Select timestamp."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:271
+msgid "Animate"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pie.php:305
+msgid "Select animate for pie chart."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_row.php:37
+msgid "Pricing Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:232
+msgid "Pricing Table"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:245
+msgid "Pricing Table Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:249
+#: vc_templates/shortcode/vc_fl_team.php:353
+msgid "Style One"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:251
+msgid "Style Three"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:252
+msgid "Style Four"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:253
+msgid "Style Five"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:269
+msgid "Price Prefix"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:276
+msgid "Price"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:284
+msgid "Pricing period"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:292
+msgid "Sentence"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:491
+msgid "Pricing Button Text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:515
+msgid "Button Background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:549
+msgid "Button Hover text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_pricing_table.php:561
+msgid "Button Hover Background color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:206
+msgid "Progress bar"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:215
+#: vc_templates/shortcode/vc_fl_progress_bar.php:235
+msgid "Progress bar style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:218
+msgid "Style one Standard : progress number top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:219
+msgid "Style Two: progress number bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:220
+msgid "Style Three : progress number right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:239
+msgid "Slim"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:240
+msgid "Ultra Slim"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:247
+#: vc_templates/shortcode/vc_fl_share.php:132
+#: vc_templates/shortcode/vc_fl_social_link.php:137
+msgid "Border style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:250
+#: vc_templates/shortcode/vc_fl_progress_bar.php:316
+msgid "Yes"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:251
+#: vc_templates/shortcode/vc_fl_progress_bar.php:317
+msgid "No"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:267
+msgid "Progress Value"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:275
+msgid "Progress bar color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:283
+msgid "Progress track color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:297
+msgid "Heading Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:298
+msgid "The color property specifies the color of Heading."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:301
+#: vc_templates/shortcode/vc_fl_progress_bar.php:309
+msgid "Design Heading"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:305
+msgid "Title Size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:314
+msgid "Mark transparent background"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:320
+#: vc_templates/shortcode/vc_fl_progress_bar.php:328
+#: vc_templates/shortcode/vc_fl_progress_bar.php:340
+msgid "Design Mark"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:325
+msgid "Mark Background Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_progress_bar.php:337
+msgid "Mark Text Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:233
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:389
+msgid "Separator"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:242
+msgid "Separator position align"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:245
+#: vc_templates/shortcode/vc_fl_title.php:119
+msgid "Default Left"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:253
+msgid "Separator Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:256
+#: vc_templates/shortcode/vc_fl_separator.php:308
+msgid "Default Line"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:257
+msgid "Line and icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:258
+msgid "Custom img"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:259
+msgid "Tittle Separator"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:265
+msgid "Separator line"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:279
+msgid "Separator img"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:290
+msgid "Img position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:305
+msgid "Separator Style line"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:309
+msgid "Doted"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:310
+msgid "Dashed"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:320
+msgid "Separator line height"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:323
+msgid "Default Small"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:331
+msgid "Separator color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:349
+msgid "Big Separator color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:362
+msgid "Small Separator color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:376
+msgid "Separator width"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:385
+msgid "Img margin left and right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_separator.php:611
+msgid "Icon margin left and right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:110
+msgid "Share"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:146
+#: vc_templates/shortcode/vc_fl_social_link.php:151
+msgid "Social icon position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:157
+#: vc_templates/shortcode/vc_fl_social_link.php:162
+msgid "Background or Border icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:162
+#: vc_templates/shortcode/vc_fl_share.php:295
+#: vc_templates/shortcode/vc_fl_social_link.php:167
+#: vc_templates/shortcode/vc_fl_social_link.php:357
+msgid "Thematic"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:172
+#: vc_templates/shortcode/vc_fl_social_link.php:177
+msgid "Thematic icon hover color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:194
+#: vc_templates/shortcode/vc_fl_social_link.php:199
+msgid "Icon background or border color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:207
+msgid "Facebook"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:217
+msgid "Twitter"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:227
+msgid "Google"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:237
+msgid "VK"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:247
+msgid "Pinterest"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:257
+msgid "Reddit"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:267
+msgid "LinkedIn"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:277
+#: vc_templates/shortcode/vc_fl_social_link.php:339
+msgid "Social icon hover animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:281
+#: vc_templates/shortcode/vc_fl_social_link.php:343
+msgid "TransformTop"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:282
+#: vc_templates/shortcode/vc_fl_social_link.php:344
+msgid "ScaleIn"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_share.php:290
+#: vc_templates/shortcode/vc_fl_social_link.php:352
+msgid "Icon Background hover"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:115
+msgid "Social Link"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:220
+#: vc_templates/shortcode/vc_fl_team.php:523
+msgid "URL to Facebook page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:232
+#: vc_templates/shortcode/vc_fl_team.php:535
+msgid "URL to Twitter page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:244
+#: vc_templates/shortcode/vc_fl_team.php:547
+msgid "URL to Instagram page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:256
+#: vc_templates/shortcode/vc_fl_team.php:559
+msgid "URL to LinkedIn page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:268
+#: vc_templates/shortcode/vc_fl_team.php:571
+msgid "URL to Google+ page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:280
+#: vc_templates/shortcode/vc_fl_team.php:583
+msgid "URL to YouTube page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:292
+#: vc_templates/shortcode/vc_fl_team.php:595
+msgid "URL to Vimeo page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:304
+#: vc_templates/shortcode/vc_fl_team.php:607
+msgid "URL to Pinterest page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:316
+#: vc_templates/shortcode/vc_fl_team.php:619
+msgid "URL to Behance page"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_social_link.php:328
+#: vc_templates/shortcode/vc_fl_team.php:631
+msgid "e-mail"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_sticky_box.php:36
+msgid "Sticky Box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:237
+msgid "Team Box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:254
+msgid "Team img style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:258
+msgid "Team with link on image"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:259
+msgid "Team with social links"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:260
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:249
+msgid "Style three"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:266
+msgid "Style variants"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:275
+msgid "Text top, vertical icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:280
+msgid "Icon alignments"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:290
+msgid "Vertical Right"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:295
+msgid "Hover mask color on image"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:318
+msgid "Add link to image"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:343
+msgid "Animation text"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:345
+msgid "Select text animation."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:376
+#: vc_templates/shortcode/vc_fl_video_box.php:301
+msgid "Name text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:395
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:306
+msgid "Name"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:405
+msgid "Description text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:424
+msgid "Description"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:435
+msgid "Icon Background"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:462
+msgid "Icon Background Type"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:488
+msgid "Social icon size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_team.php:503
+msgid "Icon animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:127
+msgid "Testimonial"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:140
+msgid "Testimonial show on pages"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:144
+msgid "Default Three"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:153
+msgid "Image Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:210
+msgid "Margin Dots"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_parent.php:213
+msgid "Type margin-top. Example: 50px."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:234
+msgid "Testimonial Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:243
+msgid "Testimonial Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:248
+msgid "Style two"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:250
+msgid "Style four"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:256
+msgid "User photo"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:257
+msgid "Select image."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:272
+msgid "Rating"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:287
+msgid "Testimonial Rating"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:295
+msgid "Default Five star"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:296
+msgid "Four star"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:297
+msgid "Three star"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:298
+msgid "Two star"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:299
+msgid "One star"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:307
+msgid "Enter name of testimonial."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:315
+msgid "Category"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:316
+msgid "Enter category testimonial."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:357
+msgid "Name Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:371
+#: vc_templates/shortcode/vc_fl_works.php:619
+msgid "Category color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:378
+msgid "Rating Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:400
+#: vc_templates/shortcode/vc_fl_video_box.php:165
+msgid "Select your icon"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:433
+msgid "Separator Line color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_testimonial_row.php:445
+msgid "Separator Icon color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_time_line_block.php:39
+msgid "Time Line block"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:60
+#: vc_templates/shortcode/vc_fl_time_line_slider_row.php:56
+msgid "Time Line Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:98
+msgid "Line color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_time_line_block_row.php:114
+msgid "Circle color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:73
+msgid "Time Line slider"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_time_line_slider.php:88
+msgid "Dots color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:135
+msgid "Sub Title"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:146
+msgid "Default h4"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:153
+msgid "span"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:155
+#: vc_templates/shortcode/vc_fl_title.php:165
+#: vc_templates/shortcode/vc_fl_title.php:175
+#: vc_templates/shortcode/vc_fl_title.php:185
+#: vc_templates/shortcode/vc_fl_title.php:194
+#: vc_templates/shortcode/vc_fl_title.php:204
+#: vc_templates/shortcode/vc_fl_title.php:218
+msgid "Title Style Options"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:160
+msgid "Title Color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:189
+msgid "Custom Title line height"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:198
+msgid "Custom Title font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:222
+msgid "Sub title font style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:226
+msgid "H"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:227
+msgid "Default text font"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:229
+#: vc_templates/shortcode/vc_fl_title.php:240
+#: vc_templates/shortcode/vc_fl_title.php:250
+#: vc_templates/shortcode/vc_fl_title.php:260
+#: vc_templates/shortcode/vc_fl_title.php:270
+#: vc_templates/shortcode/vc_fl_title.php:279
+msgid "Sub title style options"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:234
+msgid "Sub Title position"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:237
+msgid "Before title"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:238
+msgid "After title"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:245
+msgid "Sub title color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:254
+msgid "Sub title margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:264
+msgid "Sub title margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_title.php:274
+msgid "Sub title font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:149
+msgid "Video Box"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:158
+msgid "Video Link"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:161
+msgid "Paste here a video from youtube. ex - "
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:176
+msgid "Line thickness"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:178
+msgid "Thin Default"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:180
+msgid "Fatty"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:234
+msgid "Img mask color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:256
+msgid "Title name video"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:265
+msgid "Name margin top"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:277
+msgid "Name margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:289
+msgid "Name font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:311
+msgid "Time video"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:320
+msgid "Time text color"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_video_box.php:329
+msgid "Time font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_work_info_row.php:89
+msgid "Work Info Row"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_work_info_row.php:153
+#: vc_templates/shortcode/vc_fl_works.php:606
+msgid "Title Margin bottom"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_work_info_table.php:35
+msgid "Work Info"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:67
+msgid "No more"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:250
+msgid "Add some posts in Works section"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:260
+#: vc_templates/shortcode/vc_fl_works.php:268
+msgid "Load more"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:347
+msgid "Works post"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:367
+msgid "Work Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:380
+msgid "Mask Style"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:572
+msgid "Hover Text Animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:576
+#: vc_templates/shortcode/vc_fl_works.php:906
+msgid "Animation One"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:577
+#: vc_templates/shortcode/vc_fl_works.php:907
+msgid "Animation Two"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:578
+#: vc_templates/shortcode/vc_fl_works.php:908
+msgid "Animation Three"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:580
+#: vc_templates/shortcode/vc_fl_works.php:589
+#: vc_templates/shortcode/vc_fl_works.php:602
+#: vc_templates/shortcode/vc_fl_works.php:615
+#: vc_templates/shortcode/vc_fl_works.php:624
+#: vc_templates/shortcode/vc_fl_works.php:637
+msgid "Text Settings"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:628
+msgid "Category Font size"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:890
+msgid "Default speed 300ms."
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:901
+msgid "Mask hover Animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:914
+msgid "Image hover Animation"
+msgstr ""
+
+#: vc_templates/shortcode/vc_fl_works.php:932
+msgid "Hover mask color"
+msgstr ""
+
+#: widgets/widget-about.php:17
+msgid "A widget that displays a short information about you."
+msgstr ""
+
+#: widgets/widget-about.php:28
+msgid "Fl About Me"
+msgstr ""
+
+#: widgets/widget-about.php:99
+msgid "About Me"
+msgstr ""
+
+#: widgets/widget-about.php:109 widgets/widget-mostcommented.php:122
+#: widgets/widget-recent-post.php:127
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-about.php:117 widgets/widget-mostcommented.php:126
+#: widgets/widget-recent-post.php:131
+msgid "Posts to show:"
+msgstr ""
+
+#: widgets/widget-mostcommented.php:117
+msgid "Most Commented"
+msgstr ""
+
+#: widgets/widget-recent-post.php:15
+msgid "A widget that displays your latest posts with image."
+msgstr ""
+
+#: widgets/widget-recent-post.php:26
+msgid "Fl Recent Posts"
+msgstr ""
+
+#: widgets/widget-recent-post.php:122
+msgid "Recent Posts"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Fl Themes Helper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ": https://fl-theme.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Helper plugin for ForasLab themes.Don't delete this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ForasLab"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://fl-theme.com/"
+msgstr ""

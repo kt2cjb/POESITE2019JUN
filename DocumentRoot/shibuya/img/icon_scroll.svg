@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="93px" viewBox="0 0 93 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.2%" y="-7.1%" width="115.3%" height="114.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.298375226 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-694.000000, -714.000000)">
+            <g id="Group" filter="url(#filter-1)" transform="translate(698.000000, 718.000000)">
+                <rect id="Rectangle-3" stroke="#FFFFFF" transform="translate(42.426407, 42.426407) rotate(-315.000000) translate(-42.426407, -42.426407) " x="12.9264069" y="12.9264069" width="59" height="59"></rect>
+                <g id="Group-2" transform="translate(30.000000, 63.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M12.5,12.5 L0.130683123,0.130683123" id="Line"></path>
+                    <path d="M23.5,12.5 L11.1306831,0.130683123" id="Line" transform="translate(17.500000, 6.500000) scale(-1, 1) translate(-17.500000, -6.500000) "></path>
+                </g>
+                <text id="SCROLL" font-family="FuturaPT-Heavy, Futura PT" font-size="12" font-weight="600" fill="#FFFFFF">
+                    <tspan x="22" y="47">SCROLL</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

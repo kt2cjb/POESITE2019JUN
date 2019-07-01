@@ -1,0 +1,142 @@
+
+---Downloaded files---
+The import files for: Ineco Creative were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://fl-theme.com/wp/ineco
+Data file = /var/www/u0416075/data/www/fl-theme.com/wp/ineco/wp-content/themes/ineco/admin/demo_install/demo_file/demo-content.xml
+Widget file = /var/www/u0416075/data/www/fl-theme.com/wp/ineco/wp-content/themes/ineco/admin/demo_install/demo_file/widgets.json
+Customizer file = /var/www/u0416075/data/www/fl-theme.com/wp/ineco/wp-content/themes/ineco/admin/demo_install/demo_file/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Fl About Me - About Me - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Fl Recent Posts - Recent Posts - Imported
+Fl Most Commented Posts - Most Commented - Imported
+
+Page Sidebar : 
+
+Text - About Me - Imported
+Fl Recent Posts - Recent Posts - Imported
+Instagram - Instagram - Imported
+
+Work Sidebar : 
+
+Cart - Cart - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+Products - Products - Imported
+Product Search - No Title - Imported
+Recent Product Reviews - Recent reviews - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+Footer Sidebar : 
+
+Text - About Me - Imported
+Fl Recent Posts - Recent Posts - Imported
+Instagram - Instagram - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.

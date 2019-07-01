@@ -1,2 +1,0 @@
-# POESITE2019JUN
-POE新サイトのHTMLマスター管理です。

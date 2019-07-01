@@ -1,0 +1,410 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Instagram Post\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-21 04:25+0500\n"
+"PO-Revision-Date: 2014-11-28 23:35+0500\n"
+"Last-Translator: Qamar Sheeraz <qsheeraz@yahoo.com>\n"
+"Language-Team: GenialSouls <info@genialsouls.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e;_\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-woo-igp.php:106
+msgid "WP Instagram Post"
+msgstr ""
+
+#: classes/class-woo-igp.php:143
+msgid "Please submit two factor code!"
+msgstr ""
+
+#: classes/class-woo-igp.php:146
+msgid "Login Successful!"
+msgstr ""
+
+#: classes/class-woo-igp.php:160
+msgid "Unable to login Instagram!"
+msgstr ""
+
+#: classes/class-woo-igp.php:162
+msgid "WP Instagram - Login"
+msgstr ""
+
+#: classes/class-woo-igp.php:186
+msgid "WP Instagram:"
+msgstr ""
+
+#: classes/class-woo-igp.php:193
+msgid "Post to Instagram?"
+msgstr ""
+
+#: classes/class-woo-igp.php:194
+msgid "Custom Message: (No html tags)"
+msgstr ""
+
+#: classes/class-woo-igp.php:196
+msgid "Save"
+msgstr ""
+
+#: classes/class-woo-igp.php:197
+msgid "Cancel"
+msgstr ""
+
+#: classes/class-woo-igp.php:200
+msgid "Edit"
+msgstr ""
+
+#: classes/class-woo-igp.php:274
+msgid "WP Instagram Post Settings!"
+msgstr ""
+
+#: classes/class-woo-igp.php:295
+msgid "Post to Instagram every time on post update?"
+msgstr ""
+
+#: classes/class-woo-igp.php:303
+msgid "Get error notifications by email?"
+msgstr ""
+
+#: classes/class-woo-igp.php:312
+msgid "Show Product Price?"
+msgstr ""
+
+#: classes/class-woo-igp.php:321
+msgid "Show Post Link?"
+msgstr ""
+
+#: classes/class-woo-igp.php:329
+msgid "Include Post tags?"
+msgstr ""
+
+#: classes/class-woo-igp.php:337
+msgid "Show Post Details (words)"
+msgstr ""
+
+#: classes/class-woo-igp.php:345
+msgid "Select post types to post to Instagram!"
+msgstr ""
+
+#: classes/class-woo-igp.php:396
+msgid "Only new posts will be posted to Instagram."
+msgstr ""
+
+#: classes/class-woo-igp.php:413
+msgid "Get error notifications in site admin inbox."
+msgstr ""
+
+#: classes/class-woo-igp.php:429
+msgid "Select if you want to show product price to Instagram."
+msgstr ""
+
+#: classes/class-woo-igp.php:445
+msgid "Select if you want to show post URL to Instagram."
+msgstr ""
+
+#: classes/class-woo-igp.php:461
+msgid "Include post tags as hashtags for Instagram."
+msgstr ""
+
+#: classes/class-woo-igp.php:479
+msgid "Number of words in Instagram post. Enter 0 for no description."
+msgstr ""
+
+#: classes/class-woo-igp.php:510
+msgid "Settings!"
+msgstr ""
+
+#: classes/class-woo-igp.php:521
+msgid "Post Types for Instagram!"
+msgstr ""
+
+#: classes/class-woo-igp.php:533
+msgid "Post Format for Instagram!"
+msgstr ""
+
+#: classes/class-woo-igp.php:597
+msgid "Price: "
+msgstr ""
+
+#: classes/class-woo-igp.php:616
+msgid "Link: "
+msgstr ""
+
+#: classes/class-woo-igp.php:642
+msgid "Dear user,"
+msgstr ""
+
+#: classes/class-woo-igp.php:643
+msgid "Your post ID "
+msgstr ""
+
+#: classes/class-woo-igp.php:643
+msgid " not posted on Instragram due to following reason."
+msgstr ""
+
+#: classes/class-woo-igp.php:646
+msgid "WP Instagram - Notification"
+msgstr ""
+
+#: classes/class-woo-igp.php:740 classes/class-woo-igp.php:767
+msgid "User info updated!"
+msgstr ""
+
+#: classes/class-woo-igp.php:743
+msgid "Empty Username or Password!"
+msgstr ""
+
+#: classes/class-woo-igp.php:770
+msgid "Something went wrong! Try again."
+msgstr ""
+
+#: classes/class-woo-igp.php:809
+msgid "Deleted"
+msgstr ""
+
+#: classes/class-woo-igp.php:812
+msgid "Error deleting user! Please try later!"
+msgstr ""
+
+#: classes/instagram_widget.php:15
+msgid "WP Instagram Post Widget"
+msgstr ""
+
+#: classes/instagram_widget.php:16
+msgid "A WP Instagram Widget to show user images"
+msgstr ""
+
+#: classes/instagram_widget.php:54
+msgid "Nothing found!"
+msgstr ""
+
+#: classes/instagram_widget.php:104
+msgid "Instagram!"
+msgstr ""
+
+#: classes/instagram_widget.php:116 wpigp.logins.php:40
+msgid "Instagram Username"
+msgstr ""
+
+#: classes/instagram_widget.php:117
+msgid "Enter Instagram User"
+msgstr ""
+
+#: classes/instagram_widget.php:121
+msgid "Number of Images! 1 to 15"
+msgstr ""
+
+#: classes/instagram_widget.php:130
+msgid "Image Style"
+msgstr ""
+
+#: classes/instagram_widget.php:132
+msgid "Thumbnail (Square)"
+msgstr ""
+
+#: classes/instagram_widget.php:133
+msgid "Original (Keep aspect ratio)"
+msgstr ""
+
+#: right_area.php:4
+msgid "WP Instagram Pro version is here."
+msgstr ""
+
+#: right_area.php:72
+msgid "Liked WP Instagram Post?"
+msgstr ""
+
+#: right_area.php:83
+msgid "Please Rate Us Here!"
+msgstr ""
+
+#: right_area.php:87
+msgid "Need more help? Please contact: "
+msgstr ""
+
+#: right_area.php:90
+msgid "Contact Us"
+msgstr ""
+
+#: wpigp.logins.php:8 wpigp.logins.php:12
+msgid "WP Instagram Logins"
+msgstr ""
+
+#: wpigp.logins.php:14
+msgid ""
+"Connect your site to Instagram and automatically share posts with your "
+"friends."
+msgstr ""
+
+#: wpigp.logins.php:18
+msgid "Important Notice:"
+msgstr ""
+
+#: wpigp.logins.php:20
+msgid ""
+"You are using Internet Explorer. This plugin may not work properly with IE. "
+"Please use any other browser."
+msgstr ""
+
+#: wpigp.logins.php:21
+msgid "Recommended: Google Chrome."
+msgstr ""
+
+#: wpigp.logins.php:38
+msgid "Username:"
+msgstr ""
+
+#: wpigp.logins.php:41
+msgid "Don't have an Instagram account? You can create from "
+msgstr ""
+
+#: wpigp.logins.php:46
+msgid "Password:"
+msgstr ""
+
+#: wpigp.logins.php:48
+msgid "Instagram Password"
+msgstr ""
+
+#: wpigp.logins.php:52
+msgid "Proxy"
+msgstr ""
+
+#: wpigp.logins.php:52
+msgid " ( optional ):"
+msgstr ""
+
+#: wpigp.logins.php:56
+msgid "Try Instagram Proxies:"
+msgstr ""
+
+#: wpigp.logins.php:63
+msgid "Code:"
+msgstr ""
+
+#: wpigp.logins.php:66
+msgid "Instagram verification code!"
+msgstr ""
+
+#: wpigp.logins.php:69
+msgid "Submit"
+msgstr ""
+
+#: wpigp.logins.php:82
+msgid "Connect"
+msgstr ""
+
+#: wpigp.logins.php:97
+msgid "Instagram User!"
+msgstr ""
+
+#: wpigp.logins.php:113
+msgid "Delete User!"
+msgstr ""
+
+#: wpigp.logins.php:133
+msgid "Connected"
+msgstr ""
+
+#: wpigp.logins.php:138
+msgid "Full Name:"
+msgstr ""
+
+#: wpigp.logins.php:147
+msgid "Response:"
+msgstr ""
+
+#: wpigp.logins.php:158
+msgid "No Instagram user added."
+msgstr ""
+
+#: wpigp.logins.php:171
+msgid "Required Server Extensions!"
+msgstr ""
+
+#: wpigp.logins.php:178
+msgid "You May Also Like!"
+msgstr ""
+
+#: wpigp.logins.php:189
+msgid "* WP Facebook Comments *"
+msgstr ""
+
+#: wpigp.logins.php:190
+msgid "* Add Facebook comments at your site."
+msgstr ""
+
+#: wpigp.logins.php:191
+msgid "* Share comments on Facebook."
+msgstr ""
+
+#: wpigp.logins.php:192
+msgid "* Add Facebook comments on all types of posts."
+msgstr ""
+
+#: wpigp.logins.php:193
+msgid "* Customize comments box."
+msgstr ""
+
+#: wpigp.logins.php:194
+msgid "* Ability to moderation of comments."
+msgstr ""
+
+#: wpigp.logins.php:195 wpigp.logins.php:215
+msgid "* And many more..."
+msgstr ""
+
+#: wpigp.logins.php:209
+msgid "* WooSocio Free version *"
+msgstr ""
+
+#: wpigp.logins.php:210
+msgid "* Post product to Facebook, pages and groups"
+msgstr ""
+
+#: wpigp.logins.php:211
+msgid "* post to groups you dont manage"
+msgstr ""
+
+#: wpigp.logins.php:212
+msgid "* Add widget for Facebook like box"
+msgstr ""
+
+#: wpigp.logins.php:213
+msgid "* Multi user ready"
+msgstr ""
+
+#: wpigp.logins.php:214
+msgid "* Post as image or link"
+msgstr ""
+
+#: wpigp.logins.php:230
+msgid "* WooTweet Free *"
+msgstr ""
+
+#: wpigp.logins.php:232
+msgid "* Post product to Twitter"
+msgstr ""
+
+#: wpigp.logins.php:233
+msgid "* Post products multiple times(on every update)"
+msgstr ""
+
+#: wpigp.logins.php:234
+msgid "* Add Tweet Widget for latest Tweets"
+msgstr ""
+
+#: wpigp.logins.php:235
+msgid "* And many more to come..."
+msgstr ""
